@@ -1243,7 +1243,6 @@
       "link": "https://www.icmarkets.com",
 
       "Country": ["AllCountry", "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Iceland", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
-      "type": "Raw Spread Account",
       "img": "ICmarket",
 
       "EURUSD": {
@@ -1305,7 +1304,6 @@
       "broker": "IC Markets ",
       "lose": "74-32",
 
-      "type": "Standard Account",
       "link": "https://www.icmarkets.com",
       "Country": ["AllCountry", "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Iceland", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
       "img": "ICmarket",
