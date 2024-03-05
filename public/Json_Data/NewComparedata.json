@@ -1,0 +1,2478 @@
+{ 
+  "BrokerDatas" : 
+[
+    {
+      "BrokerName": "Plus500",
+      "Country": [
+        "AllCountry",
+        "Australia",
+        "Argentina",
+        "Austria",
+        "Andorra",
+        "Hong Kong",
+        "Bahrain",
+        "Cyprus",
+        "Denmark",
+        "Germany",
+        "Ireland",
+        "Finland",
+        "Israel",
+        "Japan",
+        "Italy",
+        "Kuwait",
+        "Luxembourg",
+        "Netherlands",
+        "New Zealand",
+        "Oman",
+        "Poland",
+        "Qatar",
+        "Saudi Arabia",
+        "Singapore",
+        "South Africa",
+        "Sweden",
+        "Switzerland",
+        "United Arab Emirates",
+        "United Kingdom"
+      ],
+      "url": "https://www.plus500.com",
+      "lose": "82",
+      "score": "4.6",
+      "Avaiable": "in pakistan",
+      "popularity": "11k",
+      "Updated": "OCT 2023",
+      "img": "plus500",
+      "tradingfees": [
+        {
+          "OverallScore": "4.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1H – 1 Day",
+          "InactiveFee": 10,
+          "IslamicAccount": "yes",
+          "MT4": "no",
+          "MT5": "no",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FCA, CySEC, ASIC, FMA, FSCA, MAS, FSA, DFSA",
+          "Funding_Methods": "Visa/Master Card, Bank Transfer, Skrill",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":"$100",
+          "MaximumLeverage":"30:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "4.3",
+          "WebPlatformscore": "4.3",
+          "metatraderscore": "3.8",
+          "custumservicescore": "4.3",
+          "Accountoppeningscore": "3.2"
+        }
+      ]
+    },
+    {
+      "BrokerName": "ActivTrades",
+      "Country": ["AllCountry", "Egypt", "American Samoa", "Kuwait", "Behrain", "Oman", "Qatar", "Israel", "Algeria", "Israel", "Albania", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Bangladesh", "Armenia", "Aruba", "Australia", "Austria", "Belgium", "China", "Cyprus", "Denmark", "Finland", "France", "Germany", "Greece", "Hong Kong", "Hungary", "Iceland", "Ireland", "Italy", "Luxembourg", "Malta", "Monaco", "Netherlands", "New Zealand", "Norway", "Poland", "Portugal", "Oman", "San Marino", "Saudi Arabia", "Singapore", "Slovakia", "Slovenia", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "lose": "81",
+      "url": "https://www.activtrades.com",
+      "score": "4.6",
+      "Avaiable": "in ind",
+      "Updated": "OCT 2023",
+      "img": "activetrade",
+      "tradingfees": [
+        {
+          "OverallScore": "4.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1H – 1 Day",
+          "InactiveFee": 10,
+          "IslamicAccount": "yes",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "yes",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FCA, CSSF, SCB, FCA, CMVM",
+          "Funding_Methods":"Visa/Master Card, Bank Transfer, Skrill, Neteller, Astropay",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$0",
+          "MaximumLeverage":
+            "200:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "No",
+          "Otherelectronicwallets": "No"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "4.3",
+          "WebPlatformscore": "4.3",
+          "metatraderscore": "3.8",
+          "custumservicescore": "4.3",
+          "Accountoppeningscore": "3.2"
+        }
+      ]
+    },
+    {
+      "BrokerName": "XTB",
+      "url": "https://www.xtb.com",
+      "Country": ["AllCountry",
+        "Afghanistan", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda",
+        "Argentina", "Armenia", "Aruba", "Austria", "Bahrain", "Brazil", "China",
+        "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Ireland", "Israel", "Italy",
+        "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore",
+        "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ],
+      "score": "4.6",
+      "lose": "76",
+      "Avaiable": "in sa",
+      "Updated": "OCT 2023",
+      "img": "XTB",
+      "tradingfees": [
+        {
+          "OverallScore": "4.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "Depends on method",
+          "DepositFee": "1 – 2 Days",
+          "InactiveFee": 10,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "no",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FCA, KNF, CySEC, DFSA, FSC",
+          "Funding_Methods": "Visa/Master Card, Bank Transfer, Skrill",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":"$0",
+          "MaximumLeverage":"30:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "5.0",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "IG",
+      "url": "https://www.ig.com",
+      "Country": ["AllCountry",
+        "Albania", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina",
+        "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Cyprus",
+        "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Japan", "Kuwait",
+        "Luxembourg", "Netherlands", "New Zealand", "Oman", "Qatar", "Saudi Arabia", "Singapore", "South Africa",
+        "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ],
+      "score": "4.6",
+      "lose": "71",
+      "Avaiable": "in was",
+      "Updated": "OCT 2023",
+      "img": "IG",
+      "tradingfees": [
+        {
+          "OverallScore": "4.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "Depends on method and country",
+          "DepositFee": "2 – 5 Days",
+          "InactiveFee": 12,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "no",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators":
+            "FCA, BaFin, CySEC, FINMA, DFSA, FSCA, MAS, JFSA, ASIC, FMA",
+          "Funding_Methods": "Visa/Master Card, Bank Transfer",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":"$50",
+          "MaximumLeverage":"50:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "No"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "5.0",
+          "WebPlatformscore": "5.0",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.6",
+          "Accountoppeningscore": "4.2"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Pepperstone",
+      "url": "https://pepperstone.com",
+      "Country": ["AllCountry",
+        "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Ireland", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Cyprus",
+        "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Kuwait",
+        "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa",
+        "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ],
+      "lose": "74-89",
+      "score": "4.6",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "peperstone",
+      "tradingfees": [
+        {
+          "OverallScore": "4.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1 – 3 Days",
+          "InactiveFee": 0,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "yes",
+          "cTrader": "yes",
+          "capitaliseaiAvailable": "yes",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "yes",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FCA, ASIC, CySEC, BaFin, DFSA, SCB,CMA",
+          "Funding_Methods": "Visa/Master Card, Bank Transfer",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":"$0",
+          "MaximumLeverage":"30:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "FOREX.com",
+      "url": "https://www.forex.com",
+      "Country": ["AllCountry", "Israeal ", "American Samoa", "Behrain", "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Japan", "Kuwait", "Luxembourg", "Netherlands", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "score": "4.6",
+      "lose": "75",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "forexcom",
+      "tradingfees": [
+        {
+          "OverallScore": "4.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1 – 2 Days",
+          "InactiveFee": 15,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "yes",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "yes",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "yes"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "CIRO, CySEC, CIMA, FCA, SFC, FSA, MAS, ASIC",
+          "Funding_Methods": "Visa/Master Card, Bank Transfer, Skrill, Neteller",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$100",
+          "MaximumLeverage":
+            "400:1",
+          "PayPalfordeposit": "No",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "5.5",
+          "Accountoppeningscore": "4.2"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Fxpro",
+      "url": "https://www.fxpro.com",
+      "Country": ["AllCountry", "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Italy", "Japan", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "score": "4.6",
+      "lose": "81.85",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "fxpro",
+      "tradingfees": [
+        {
+          "OverallScore": "4.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1 – 2 Days",
+          "InactiveFee": 15,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "yes",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "yes"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "CySEC, FCA, SCB, FSCA",
+          "Funding_Methods": "Visa/Master/Maestro Card, Bank Transfer, Skrill, Neteller",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":"$100",
+          "MaximumLeverage":"200:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "City Index",
+      "Country": ["AllCountry", "Australia", "United Arab Emirates", "United Kingdom"],
+      "url": "https://www.cityindex.com",
+      "score": "4.6",
+      "lose": "70",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "cityindex",
+      "tradingfees": [
+        {
+          "OverallScore": "4.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1 – 2 Days",
+          "InactiveFee": 15,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "no",
+          "TradingView": "yes",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "yes"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "CIRO, ASIC, MAS, FCA, JFSA",
+          "Funding_Methods": "Visa/Master/Maestro Card, Bank Transfer, Paypal",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":"$150",
+          "MaximumLeverage":"30:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "CMC Markets",
+      "url": "https://www.cmcmarkets.com",
+      "Country": ["AllCountry", "Luxembourg", "Albania", "Israeal", "Algeria", "Italy", "Hong Kong", "Australia", "Austria", "Bahrain", "Belgium", "Cyprus", "Denmark", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "United Arab Emirates", "United Kingdom"],
+      "score": "4.6",
+      "lose": "69",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "CMCmarketlogo",
+      "tradingfees": [
+        {
+          "OverallScore": "4.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$20",
+          "DepositFee": "1 – 3 Days",
+          "InactiveFee": 10,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "no",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "ASIC, FCA, MAS, CIRO, FMA",
+          "Funding_Methods": "Visa/Master/ Card, Bank Transfer",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":"$0",
+          "MaximumLeverage":"30:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Tickmill",
+      "url": "https://www.tickmill.com",
+      "Country": ["AllCountry", "Israel", "Algeria", "Israeal", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "score": "4.6",
+      "lose": "72",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "tickmil",
+      "tradingfees": [
+        {
+          "OverallScore": "4.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$10",
+          "DepositFee": "1 – 2 Days",
+          "InactiveFee": 0,
+          "IslamicAccount": "yes",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "yes",
+          "AutochartistAccess": "yes",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FSA, FCA, CySEC, FSCA",
+          "Funding_Methods": "Visa/Master/ Card, Bank Transfer, Crypto",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":"$100",
+          "MaximumLeverage":"30:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Oanda",
+      "url": "https://www.oanda.com",
+      "Country": ["AllCountry", "Algeria", "Israel", "Andorra", "American Samoa", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Ireland", "Israel", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "score": "4.6",
+      "lose": "74-89",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "oandalogo",
+      "tradingfees": [
+        {
+          "OverallScore": "4.9",
+          "FeeScore": "4.9",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$5",
+          "DepositFee": "1 – 3 Days",
+          "InactiveFee": 10,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "yes",
+          "cTrader": "yes",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "yes",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "CIRO, ASIC, FCA, MFSA, FSC-BVI",
+          "Funding_Methods": "Visa/Master/ Card, Bank Transfer, Skrill, Neteller",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$0",
+          "MaximumLeverage":
+            "888:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Admirals Markets",
+      "url": "https://admiralmarkets.com",
+      "Country": ["AllCountry",
+        "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina",
+        "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus",
+        "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Kuwait",
+        "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa",
+        "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ],
+      "score": "4.6",
+      "lose": "80",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "admiralmarket",
+      "tradingfees": [
+        {
+          "OverallScore": "4.9",
+          "FeeScore": "4.8",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1 – 2 Days",
+          "InactiveFee": 10,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "yes"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FCA, CySEC, ASIC, JSC, FSCA",
+          "Funding_Methods": "Visa/Master/ Card, Bank Transfer, Perfect Money",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":"$100",
+          "MaximumLeverage":"1000:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "eToro",
+      "url": "https://www.etoro.com",
+      "Country": ["AllCountry",
+        "Australia", "Austria", "Brazil", "Cyprus", "Denmark", "Egypt", "Finland",
+        "France", "Germany", "Ireland", "Italy", "Luxembourg", "Netherlands",
+        "Norway", "Oman", "Poland", "Qatar", "Singapore", "South Africa",
+        "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ],
+      "lose": "74-89",
+      "score": "4.6",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "etoro",
+      "tradingfees": [
+        {
+          "OverallScore": "4.9",
+          "FeeScore": "4.2",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$10",
+          "DepositFee": "1 – 4 Days",
+          "InactiveFee": 10,
+          "IslamicAccount": "no",
+          "MT4": "no",
+          "MT5": "no",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "yes",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "CySEC, FCA, ASIC, FSA",
+          "Funding_Methods":
+            "Visa/Master/ Card, Bank Transfer, Skrill, Neteller, Paypal",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":"$10",
+          "MaximumLeverage":"30:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Capital.com",
+      "url": "https://www.capital.com",
+      "Country": ["AllCountry", "Angola", "Algeria", "Albania", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "score": "4.6",
+      "lose": "79",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "captial",
+      "tradingfees": [
+        {
+          "OverallScore": "4.9",
+          "FeeScore": "4.2",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1 – 2 Days",
+          "InactiveFee": 10,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "no",
+          "TradingView": "yes",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FCA, ASIC, CySEC, FSA, SCB",
+          "Funding_Methods": "Visa/Master/ Card, Bank Transfer, Apple pay",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$20",
+          "MaximumLeverage":
+            "30:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Swissquote",
+      "url": "https://en.swissquote.com",
+      "Country": ["AllCountry",
+        "Andorra", "Austria", "Australia", "Brazil", "Egypt", "Albania", "Armenia", "Israeal", "China", "Bahrain", "Argentina", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic",
+        "Denmark", "Estonia", "Finland", "France", "Germany", "Gibraltar", "Greece", "Guernsey", "Hungary",
+        "Iceland", "Ireland", "Isle of Man", "Italy", "Jersey", "Kuwait", "Latvia", "Liechtenstein",
+        "Lithuania", "Luxembourg", "Malta", "Monaco", "Netherlands", "New Zealand", "Norway", "Oman", "Poland", "Portugal",
+        "Qatar", "Oman", "San Marino", "Saudi Arabia", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland",
+        "United Arab Emirates", "United Kingdom"
+      ],
+      "score": "4.6",
+      "lose": "77",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "swisslogo",
+      "tradingfees": [
+        {
+          "OverallScore": "4.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1 – 5 Days",
+          "InactiveFee": 0,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FCA, FINMA, DFSA, SFC, MFSA, MAS, CSSF,",
+          "Funding_Methods": "Visa/Master/ Card, Bank Transfer",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$1000",
+          "MaximumLeverage":
+            "100:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "IC Markets",
+      "url": "https://www.icmarkets.com",
+      "Country": ["AllCountry", "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Iceland", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "score": "4.6",
+      "lose": "74-32",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "ICmarket",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1 – 2 Days",
+          "InactiveFee": 0,
+          "IslamicAccount": "yes",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "yes",
+          "capitaliseaiAvailable": "yes",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "yes",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FSA, CySEC, ASIC",
+          "Funding_Methods":
+            "Visa/Master/ Card, Bank Transfer, Skrill, Neteller, Paypal",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$200",
+          "MaximumLeverage":
+            "500:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Fusion Markets",
+      "url": "https://fusionmarkets.com",
+      "Country": ["AllCountry", "Afghanistan", "Albania", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "score": "4.6",
+      "lose": "74-89",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "fusionmarket",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "Depends on amount",
+          "DepositFee": "1H – 1 Day",
+          "InactiveFee": 10,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "yes",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "yes",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "ASIC, FSA, VFSC",
+          "Funding_Methods":
+            "Visa/Master/ Card, Bank Transfer, Skrill, Neteller, Paypal",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$0",
+          "MaximumLeverage":
+            "500:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "XM",
+      "url": "https://www.xm.com",
+      "Country": ["AllCountry", "Algeria", "Andorra", "Angola", "Antigua & Barbuda", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "lose": "74-89",
+      "score": "4.6",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "xtm",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "4H – 1 Day",
+          "InactiveFee": 5,
+          "IslamicAccount": "yes",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "yes",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "ASIC, CySEC, FSC, DFSA",
+          "Funding_Methods": "Visa/Master/ Card, Bank Transfer, e-Wallets",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$5",
+          "MaximumLeverage":
+            "1000:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "FXCM",
+      "url": "https://www.fxcm.com",
+      "Country": ["AllCountry", "Algeria", "Albania", "Andorra", "Denmark", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Egypt", "Finland", "Germany", "Iceland", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "score": "4.6",
+      "lose": "71",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "fxcmlogo",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1 – 3 Days",
+          "InactiveFee": 50,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "no",
+          "TradingView": "yes",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "yes",
+          "zuluTradeAvaiable": "yes",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FCA, CySEC, BaFin, ASIC, CIRO, ISA, FSCA",
+          "Funding_Methods": "Visa/Master/ Card, Bank Transfer, Skrill, Neteller",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$50",
+          "MaximumLeverage":
+            "1000:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "ACY Securities",
+      "url": "https://acy.com",
+      "Country": ["AllCountry", "United Arab Emirates", "United Kingdom"],
+      "score": "4.6",
+      "lose": "74-89",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "securites",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "2H – 1 Day",
+          "InactiveFee": 0,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "yes",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "ASIC, FSA",
+          "Funding_Methods":
+            "Visa/Master/ Card, Bank Transfer, Skrill, Neteller, Crypto",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$50",
+          "MaximumLeverage":
+            "500:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Global Prime",
+      "url": "https://www.globalprime.com",
+      "Country": ["AllCountry", "Qatar", "Hong Kong", "Austria", "Bangladesh", "Denmark", "Behrain", "Belgium", "Cyprus", "Kuwait", "Netherlands", "Ireland", "Israel", "Egypt", "American Samoa", "Aruba", "Armenia", "Antigua & Barbuda", "Angola", "Argentina", "Algeria", "Andorra", "Anguilla", "Poland", "Luxembourg", "Switzerland", "Italy", "Spain", "Israel", "Albania", "Saudi Arabia", "Finland", "United States", "China", "India", "Brazil", "United Kingdom", "Germany", "France", "Australia", "Canada", "Japan", "Sweden", "Sweden"],
+      "score": "4.6",
+      "lose": "74-89",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "globalprime",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1H – 1 Day",
+          "InactiveFee": 0,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "no",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "yes",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "ASIC, VFSC",
+          "Funding_Methods":
+            "Visa/Master/ Card, Bank Transfer, Skrill, Neteller, Paypal",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$10",
+          "MaximumLeverage":
+            "200:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Avatrade",
+      "url": "https://www.avatrade.com",
+      "Country": ["AllCountry", "American Samoa", "Albania", "Afghanistan", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Japan", "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "score": "4.6",
+      "lose": "76",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "avatrade",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1 – 3 Days",
+          "InactiveFee": 50,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "yes",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FSCA, ASIC, ISA, CySEC, FSA, FSC-BVI",
+          "Funding_Methods": "Visa/Master/ Card, Bank Transfer, Skrill, Neteller",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$100",
+          "MaximumLeverage":
+            "400:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "FP Markets",
+      "url": "https://www.fpmarkets.com",
+      "Country": ["AllCountry", "Qatar", "Behrain", "Egypt", "Kuwait", "Israel", "Algeria", "Oman", "Albania", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Finland", "France", "Germany", "Greece", "Hong Kong", "Hungary", "Iceland", "Ireland", "Italy", "Luxembourg", "Malta", "Monaco", "Netherlands", "Norway", "Poland", "Portugal", "Oman", "San Marino", "Saudi Arabia", "Singapore", "Slovakia", "Slovenia", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "score": "4.6",
+      "lose": "74-89",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "fpmarket",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1 – 4 Days",
+          "InactiveFee": 0,
+          "IslamicAccount": "yes",
+          "MT4": "yes",
+          "MT5": "no",
+          "TradingView": "yes",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "yes",
+          "AutochartistAccess": "yes",
+          "TradingCenteralAccess": "yes"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "ASIC, CySEC, FSCA, FSC-Mauritius",
+          "Funding_Methods":
+            "Visa/Master/ Card, Bank Transfer, Skrill, Neteller, Paypal",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$50",
+          "MaximumLeverage":
+            "500:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "MultiBank",
+      "url": "https://multibankfx.com",
+      "Country": ["AllCountry", "American Samoa", "Israel", "Albania", "Afghanistan", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+
+      "score": "4.6",
+      "lose": "74-89",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "multibank",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "2H – 1 Day",
+          "InactiveFee": 60,
+          "IslamicAccount": "yes",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "yes",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators":
+            "ASIC, BaFin, CIMA, CySEC, SCA, FSC, FMA, MAS, VFSC",
+          "Funding_Methods": "Visa/Master Card, Bank Transfer, Skrill, Neteller",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$50",
+          "MaximumLeverage":
+            "500:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Eightcap",
+
+      "url": "https://www.eightcap.com",
+      "Country": ["AllCountry", "Angola", "Aruba", "Oman", "Egypt", "Bangladesh", "American Samoa", "Behrain", "China", "Kuwait", "Armenia", "Algeria", "Argentina", "Saudi Arabia", "Italy", "Albania", "Andorra", "Anguilla", "Antigua & Barbuda", "Australia", "Austria", "Belgium", "Brazil", "Denmark", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Luxembourg", "Netherlands", "New Zealand", "Poland", "Singapore", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+
+      "score": "4.6",
+      "lose": "77.78",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "Eightcap",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1 – 2 Days",
+          "InactiveFee": 0,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "yes",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "yes",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FCA, FSCA, VFSC, ASIC",
+          "Funding_Methods":
+            "Visa/Master Card, Bank Transfer, Skrill, Neteller Crypto",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$100",
+          "MaximumLeverage":
+            "500:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Vantage",
+      "Country": ["AllCountry", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda",
+        "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil",
+        "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy",
+        "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore",
+        "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ]
+      ,
+      "url": "https://www.vantagemarkets.com",
+      "score": "4.6",
+      "lose": "74-89",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "vintage",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1 – 2 Days",
+          "InactiveFee": 0,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "yes",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "yes",
+          "copyTradingAvailable": "yes",
+          "AutochartistAccess": "yes",
+          "TradingCenteralAccess": "yes"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FCA, FSCA, VFSC, ASIC",
+          "Funding_Methods": "Visa/Master Card, Neteller, Skrill, Bank Transfer",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$50",
+          "MaximumLeverage":
+            "500:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "HYCM",
+      "url": "https://hycm.com",
+      "Country": ["AllCountry", "Israel", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "Germany", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "score": "4.6",
+      "lose": "74-89",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "Hycmlogo",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "1 free per month",
+          "DepositFee": "1 – 3 Days",
+          "InactiveFee": 10,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FCA, CySEC, CIMA, SVG",
+          "Funding_Methods":
+            "Visa /Master Card, Bank Transfer, Skrill, Neteller, Crypto",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$100",
+          "MaximumLeverage":
+            "500:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "HF Markets",
+      "Country": ["AllCountry", "United Arab Emirates"
+        , "United Kingdom"],
+      "url": "https://www.hfm.com",
+      "score": "4.6",
+      "lose": "74.14",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "HFmarket",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "10H – 1 Day",
+          "InactiveFee": 5,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "yes",
+          "AutochartistAccess": "yes",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "CMA, FSA, FSCA, DFSA, FCA, SVG",
+          "Funding_Methods": "Visa/Master Card, Bank Transfer, Skrill, Neteller",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$5",
+          "MaximumLeverage":
+            "2000:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Moneta Markets",
+      "Country": ["AllCountry", "Andorra", "Algeria", "Angola", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Denmark", "Egypt", "Finland", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Sweden", "Switzerland", "United Arab Emirates"],
+      "url": "https://www.monetamarkets.com",
+      "score": "4.6",
+      "lose": "74-89",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "monetamarket",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "1 free per month",
+          "DepositFee": "3H – 1 Day",
+          "InactiveFee": 0,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "yes",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FSCA",
+          "Funding_Methods": "Visa/Master Card, Bank Transfer, Sticpay",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$50",
+          "MaximumLeverage":
+            "1000:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Go Markets",
+      "url": "https://www.gomarkets.com",
+      "Country": ["AllCountry", "Luxembourg", "Oman", "Egypt", "Bangladesh", "Brazil", "Cyprus", "Ireland", "Denmark", "Austria", "Netherlands", "Behrain", "Hong Kong", "Armenia", "Angola", "Aruba", "Antigua & Barbuda", "Albania", "Andorra", "Argentina", "Algeria", "Poland", "Sweden", "Japan", "Italy", "Australia", "France", "Finland", "Germany", "United Kingdom", "Kuwait", "South Africa", "Saudi Arabia", "United Arab Emirates", "New Zealand"],
+      "score": "4.6",
+      "lose": "74-89",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "gomarket",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "Depends on method",
+          "DepositFee": "3H – 1 Day",
+          "InactiveFee": 0,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "yes",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "yes",
+          "AutochartistAccess": "yes",
+          "TradingCenteralAccess": "yes"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "ASIC, FSC-Mauritius",
+          "Funding_Methods": "Visa/Master Card, Bank Transfer, Skrill, Neteller",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$200",
+          "MaximumLeverage":
+            "500:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Markets.com",
+      "url": "https://www.markets.com",
+      "Country": ["AllCountry", "Saudi Arabia", "Egypt", "Albania", "Andorra", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Iceland", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "score": "4.6",
+      "lose": "67.7",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "marketcom",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "4H – 1 Day",
+          "InactiveFee": 10,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "ASIC, CySEC, FSCA, FCA, FSC",
+          "Funding_Methods": "Visa/Master Card, Bank Transfer, Skrill, Neteller",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$100",
+          "MaximumLeverage":
+            "300:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "FXTM",
+      "url": "https://www.forextime.com",
+      "Country": ["AllCountry", "Afghanistan", "Israel", "Algeria", "Albania", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Egypt", "Iceland", "Kuwait", "New Zealand", "Norway", "Oman", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "score": "4.6",
+      "lose": "81",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "fxtm",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$5",
+          "DepositFee": "5H – 1 Day",
+          "InactiveFee": 5,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "CySEC, FSC-Mauritius",
+          "Funding_Methods":
+            "Visa/Master Card, Bank Transfer, Skrill, Neteller, Perfect Money",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$10",
+          "MaximumLeverage":
+            "2000:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Trade Nation",
+      "Country": ["AllCountry", "Albania", "Algeria", "Andorra", "Anguilla", "Antigua & Barbuda",
+        "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China",
+        "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Japan",
+        "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore",
+        "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ],
+      "url": "https://tradenation.com",
+      "score": "4.6",
+      "lose": "74-89",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "tradenation",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "2H – 1 Day",
+          "InactiveFee": 0,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "no",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "yes",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "ASIC, FCA, SCB, FSCA, FSA",
+          "Funding_Methods": "Visa/Master Card, Bank Transfer, Skrill",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$0",
+          "MaximumLeverage":
+            "200:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "BlackBull",
+      "url": "https://blackbull.com",
+      "Country": ["AllCountry",
+        "Albania", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina",
+        "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus",
+        "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Kuwait",
+        "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa",
+        "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ],
+      "score": "4.6",
+      "lose": "74-89",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "blackbull",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "$0",
+          "DepositFee": "1 – 2 Days",
+          "InactiveFee": 0,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "yes",
+          "cTrader": "yes",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "yes",
+          "copyTradingAvailable": "yes",
+          "AutochartistAccess": "yes",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FMA, FSA, FCA",
+          "Funding_Methods":
+            "Visa/Master Card, Bank Transfer, Skrill, Neteller, Crypto, AstroPay",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$10",
+          "MaximumLeverage":
+            "500:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "TMGM",
+      "url": "https://www.tmgm.com",
+      "Country": ["AllCountry",
+        "Afghanistan", "Albania", "Israel", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda",
+        "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China",
+        "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Japan",
+        "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Singapore",
+        "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ],
+      "score": "4.6",
+      "lose": "74-89",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "tmgm",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee":
+            "FCA in the UK, BaFin in Germany and ASIC in Australia",
+          "DepositFee": "1 – 3 Days",
+          "InactiveFee": 30,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "no",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "yes"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "ASIC, FMA, VFSC",
+          "Funding_Methods":
+            "Visa/Master Card, Bank Transfer, Skrill, Neteller, Crypto, Sticpay",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$100",
+          "MaximumLeverage":
+            "500:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
+      "BrokerName": "Axi",
+      "Country": ["AllCountry",
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "American Samoa",
+        "Andorra",
+        "Angola",
+        "Anguilla",
+        "Antigua & Barbuda",
+        "Argentina",
+        "Armenia",
+        "Aruba",
+        "Australia",
+        "Austria",
+        "Bahrain",
+        "Bangladesh",
+        "Belgium",
+        "Brazil",
+        "China",
+        "Cyprus",
+        "Denmark",
+        "Egypt",
+        "Finland",
+        "France",
+        "Germany",
+        "Hong Kong",
+        "Ireland",
+        "Israel",
+        "Italy",
+        "Kuwait",
+        "Netherlands",
+        "New Zealand",
+        "Oman",
+        "Poland",
+        "Qatar",
+        "Saudi Arabia",
+        "Singapore",
+        "South Africa",
+        "Spain",
+        "Sweden",
+        "Switzerland",
+        "United Arab Emirates",
+        "United Kingdom"
+      ],
+      "url": "https://www.axi.com",
+      "score": "4.6",
+      "lose": "83.1",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "axi",
+      "tradingfees": [
+        {
+          "OverallScore": "3.9",
+          "FeeScore": "4.6",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee":
+            "FCA in the UK, BaFin in Germany and ASIC in Australia",
+          "DepositFee": "1 – 3 Days",
+          "InactiveFee": 10,
+          "IslamicAccount": "yes",
+          "MT4": "yes",
+          "MT5": "no",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "yes",
+          "AutochartistAccess": "yes",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "ASIC, FCA, FSCA, FMA, DFSA, SVG",
+          "Funding_Methods":
+            "Credit/Debit Card Bank Transfer,Neteller Skrill,Astropay",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$0",
+          "MaximumLeverage":
+            "500:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    }
+
+  ]
+}

@@ -1,0 +1,2748 @@
+{
+   "feeData" :[
+    {
+      "broker": "Plus500",
+      "lose": "82",
+      "link": "https://www.plus500.com",
+      "img": "plus500",
+      "Country": [
+        "AllCountry",
+        "Australia",
+        "Argentina",
+        "Austria",
+        "Andorra",
+        "Hong Kong",
+        "Bahrain",
+        "Cyprus",
+        "Denmark",
+        "Germany",
+        "Ireland",
+        "Finland",
+        "Israel",
+        "Japan",
+        "Italy",
+        "Kuwait",
+        "Luxembourg",
+        "Netherlands",
+        "New Zealand",
+        "Oman",
+        "Poland",
+        "Qatar",
+        "Saudi Arabia",
+        "Singapore",
+        "South Africa",
+        "Sweden",
+        "Switzerland",
+        "United Arab Emirates",
+        "United Kingdom"
+      ],
+      "EURUSD": {
+        "EURUSD": 1.3,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.7,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 2,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 3,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 1.1,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 2.2,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 2,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 3.8,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 2.2,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.5,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 3,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 2,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.30,
+        "comission": 0
+      }
+
+    },
+
+    {
+      "broker": "XTB",
+      "link": "https://www.xtb.com",
+      "lose": "76",
+      "img": "XTB",
+      "Country": ["AllCountry",
+        "Afghanistan", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda",
+        "Argentina", "Armenia", "Aruba", "Austria", "Bahrain", "Brazil", "China",
+        "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Ireland", "Israel", "Italy",
+        "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore",
+        "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ],
+      "EURUSD": {
+        "EURUSD": 0.9,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.5,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.5,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 2.0,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 1.2,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 1.6,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 1.8,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 1.7,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 1.6,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.5,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 2.0,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 1.2,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.28,
+        "comission": 0
+      }
+
+    },
+
+    {
+      "broker": "ActivTrades",
+      "lose": "81",
+      "link": "https://www.activtrades.com",
+      "Country": ["AllCountry", "Egypt", "American Samoa", "Kuwait", "Bahrain", "Oman", "Qatar", "Israel", "Algeria", "Israel", "Albania", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Belgium", "Bangladesh", "China", "Cyprus", "Denmark", "Finland", "France", "Germany", "Greece", "Hong Kong", "Hungary", "Iceland", "Ireland", "Italy", "Luxembourg", "Malta", "Monaco", "Netherlands", "New Zealand", "Norway", "Poland", "Portugal", "oman", "San Marino", "Saudi Arabia", "Singapore", "Slovakia", "Slovenia", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "img": "activetrade",
+      "EURUSD": {
+        "EURUSD": 1.5,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.7,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.6,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 2.7,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 1.8,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 2.0,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 2.5,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 3.5,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 2.2,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 2.0,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 3.2,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 2.1,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.4,
+        "comission": 0
+      }
+
+    },
+    {
+      "broker": "IG",
+      "img": "IG",
+      "link": "https://www.ig.com",
+      "lose": "71",
+      "Country": ["AllCountry",
+        "Albania", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina",
+        "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Cyprus",
+        "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Japan", "Kuwait",
+        "Luxembourg", "Netherlands", "New Zealand", "Oman", "Qatar", "Saudi Arabia", "Singapore", "South Africa",
+        "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ],
+      "EURUSD": {
+        "EURUSD": 0.7,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.1,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.0,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 1.3,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.7,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 1.8,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 2.1,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 3.2,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 2.4,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.2,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 2.1,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 2.1,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.4,
+        "comission": 0
+      }
+
+    },
+    {
+      "broker": "Pepperstone",
+      "lose": "74-89",
+      "link": "https://pepperstone.com",
+      "type": "Standard Account",
+      "img": "peperstone",
+      "Country": ["AllCountry",
+        "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Ireland", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Cyprus",
+        "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Kuwait",
+        "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa",
+        "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ],
+      "EURUSD": {
+        "EURUSD": 1.0,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.2,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.3,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 1.6,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 1.2,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 1.3,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 1.9,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 2.7,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 1.3,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.4,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 2.1,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 1.7,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.16,
+        "comission": 0
+      }
+
+    },
+    {
+      "broker": "Pepperstone",
+      "type": "Razor Account",
+      "lose": "74-89",
+      "link": "https://pepperstone.com",
+      "Country": ["AllCountry", "Albania", "Algeria", "Ireland", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Iceland", "Ireland", "Italy", "Japan", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "img": "peperstone",
+      "EURUSD": {
+        "EURUSD": 0.1,
+        "comission": 7
+      },
+      "USDJPY": {
+        "USDJPY": 0.3,
+        "comission": 7
+      },
+      "GBPUSD": {
+        "GBPUSD": 0.7,
+        "comission": 7
+      },
+      "USDCAD": {
+        "USDCAD": 0.4,
+        "comission": 7
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.3,
+        "comission": 7
+      },
+      "NZDUSD": {
+        "NZDUSD": 0.3,
+        "comission": 7
+      },
+      "EURJPY": {
+        "EURJPY": 0.8,
+        "comission": 7
+      },
+      "GBPJPY": {
+        "GBPJPY": 1.5,
+        "comission": 7
+      },
+      "USDCHF": {
+        "USDCHF": 0.2,
+        "comission": 7
+      },
+      "EURGBP": {
+        "EURGBP": 0.3,
+        "comission": 7
+      },
+      "NZDJPY": {
+        "NZDJPY": 1.3,
+        "comission": 7
+      },
+      "AUDJPY": {
+        "AUDJPY": 0.6,
+        "comission": 7
+      },
+      "GOLD": {
+        "GOLD": 0.19,
+        "comission": 0
+      }
+
+    },
+    {
+      "broker": "FOREX.com",
+      "lose": "75",
+      "link": "https://www.forex.com",
+
+      "Country": ["AllCountry", "Israel", "American Samoa", "Bahrain", "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Japan", "Kuwait", "Luxembourg", "Netherlands", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "type": "Standard Account",
+      "img": "forexcom",
+      "EURUSD": {
+        "EURUSD": 1.3,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.5,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.4,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 2.3,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 1.8,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 2.9,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 2.2,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 3.8,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 1.9,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.4,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 3.3,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 2.3,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.68,
+        "comission": 0
+      }
+
+    },
+    {
+      "broker": "Fxpro",
+      "lose": "81.85",
+      "link": "https://www.fxpro.com",
+      "Country": ["AllCountry", "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Italy", "Japan", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "type": "Hedging Account",
+      "img": "fxpro",
+      "EURUSD": {
+        "EURUSD": 1.2,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.3,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.5,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 1.7,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 1.9,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 2.5,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 1.9,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 1.9,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 1.9,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.3,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 4.5,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 3.1,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.23,
+        "comission": 0
+      }
+
+    },
+    {
+      "broker": "FxPro",
+      "lose": "81.85",
+
+      "link": "https://www.fxpro.com",
+      "Country": ["AllCountry", "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland"],
+      "type": "Elite Account",
+      "img": "fxpro",
+      "EURUSD": {
+        "EURUSD": 0,
+        "comission": 7
+      },
+      "USDJPY": {
+        "USDJPY": 0,
+        "comission": 7
+      },
+      "GBPUSD": {
+        "GBPUSD": 0,
+        "comission": 7
+      },
+      "USDCAD": {
+        "USDCAD": 0,
+        "comission": 7
+      },
+      "AUDUSD": {
+        "AUDUSD": 0,
+        "comission": 7
+      },
+      "NZDUSD": {
+        "NZDUSD": 0,
+        "comission": 7
+      },
+      "EURJPY": {
+        "EURJPY": 0.2,
+        "comission": 7
+      },
+      "GBPJPY": {
+        "GBPJPY": 0.5,
+        "comission": 7
+      },
+      "USDCHF": {
+        "USDCHF": 0,
+        "comission": 7
+      },
+      "EURGBP": {
+        "EURGBP": 0,
+        "comission": 7
+      },
+      "NZDJPY": {
+        "NZDJPY": 0.5,
+        "comission": 7
+      },
+      "AUDJPY": {
+        "AUDJPY": 0.5,
+        "comission": 7
+      },
+      "GOLD": {
+        "GOLD": 0.11,
+        "comission": 7
+      }
+
+
+    },
+    {
+      "broker": "FxPro",
+      "lose": "81.85",
+
+      "link": "https://www.fxpro.com",
+      "Country": ["AllCountry", "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland"],
+      "type": "Raw+ Account",
+      "img": "fxpro",
+
+      "EURUSD": {
+        "EURUSD": 0,
+        "comission": 7
+      },
+      "USDJPY": {
+        "USDJPY": 0,
+        "comission": 7
+      },
+      "GBPUSD": {
+        "GBPUSD": 0,
+        "comission": 7
+      },
+      "USDCAD": {
+        "USDCAD": 0,
+        "comission": 7
+      },
+      "AUDUSD": {
+        "AUDUSD": 0,
+        "comission": 7
+      },
+      "NZDUSD": {
+        "NZDUSD": 0,
+        "comission": 7
+      },
+      "EURJPY": {
+        "EURJPY": 0.2,
+        "comission": 7
+      },
+      "GBPJPY": {
+        "GBPJPY": 0.5,
+        "comission": 7
+      },
+      "USDCHF": {
+        "USDCHF": 0,
+        "comission": 7
+      },
+      "EURGBP": {
+        "EURGBP": 0,
+        "comission": 7
+      },
+      "NZDJPY": {
+        "NZDJPY": 0.5,
+        "comission": 7
+      },
+      "AUDJPY": {
+        "AUDJPY": 0.5,
+        "comission": 7
+      },
+      "GOLD": {
+        "GOLD": 0.11,
+        "comission": 7
+      }
+
+
+    },
+    {
+      "broker": "City Index",
+      "link": "https://www.cityindex.com",
+
+      "Country": ["AllCountry", "Australia", "United Arab Emirates", "United Kingdom"],
+      "type": "Raw+ Account",
+      "img": "cityindex",
+      "lose": "70",
+      "EURUSD": {
+        "EURUSD": 1,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.2,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.5,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 2,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 1,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 1.8,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 2.5,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 3.2,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 2.2,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.5,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 4,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 3,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.50,
+        "comission": 0
+      }
+
+
+    },
+    {
+      "broker": "Tickmill",
+      "lose": "72",
+      "link": "https://www.tickmill.com",
+      "Country": ["AllCountry",  "Algeria", "Israel", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "type": "Pro Account",
+      "img": "tickmil",
+      "EURUSD": {
+        "EURUSD": 0,
+        "comission": 4
+      },
+      "USDJPY": {
+        "USDJPY": 0.3,
+        "comission": 4
+      },
+      "GBPUSD": {
+        "GBPUSD": 0.1,
+        "comission": 4
+      },
+      "USDCAD": {
+        "USDCAD": 0.4,
+        "comission": 4
+      },
+      "AUDUSD": {
+        "AUDUSD": 0,
+        "comission": 4
+      },
+      "NZDUSD": {
+        "NZDUSD": 0.1,
+        "comission": 4
+      },
+      "EURJPY": {
+        "EURJPY": 0.3,
+        "comission": 4
+      },
+      "GBPJPY": {
+        "GBPJPY": 0.6,
+        "comission": 4
+      },
+      "USDCHF": {
+        "USDCHF": 0.3,
+        "comission": 4
+      },
+      "EURGBP": {
+        "EURGBP": 0.2,
+        "comission": 4
+      },
+      "NZDJPY": {
+        "NZDJPY": 0.6,
+        "comission": 4
+      },
+      "AUDJPY": {
+        "AUDJPY": 0.6,
+        "comission": 4
+      },
+      "GOLD": {
+        "GOLD": 0.1,
+        "comission": 4
+      }
+    },
+    {
+      "broker": "Tickmill",
+      "lose": "72",
+      "link": "https://www.tickmill.com",
+
+      "Country": ["AllCountry", "Israel", "Algeria", "Israel", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "type": "Classic Account",
+      "img": "tickmil",
+      "EURUSD": {
+        "EURUSD": 1.6,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.7,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.7,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 1.8,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 1.6,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 1.7,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 2.1,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 2.2,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 1.9,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.7,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 2.4,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 2.1,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.27,
+        "comission": 0
+      }
+
+    },
+    {
+      "broker": "Oanda",
+      "lose": "74-89",
+      "link": "https://www.oanda.com",
+      "Country": ["AllCountry", "Algeria", "Israel", "Andorra", "American Samoa", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Ireland", "Israel", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "img": "oandalogo",
+      "EURUSD": {
+        "EURUSD": 0.7,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 0.8,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 0.8,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 1.6,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.8,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 1.5,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 1.5,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 1.6,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 1.2,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 0.8,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 2.2,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 1.4,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.15,
+        "comission": 0
+      }
+
+    },
+    {
+      "broker": "Admirals Markets",
+      "lose": "80",
+      "link": "https://admiralmarkets.com",
+      "type": "Trade.MT5 Account",
+      "Country": ["AllCountry",
+        "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina",
+        "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus",
+        "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Kuwait",
+        "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa",
+        "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ]
+
+      ,
+      "img": "admiralmarket",
+      "EURUSD": {
+        "EURUSD": 0.8,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.1,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 0.9,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 1.7,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 1.1,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 1.9,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 1.6,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 2.1,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 1.7,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 0.9,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 3.4,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 2.5,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.55,
+        "comission": 0
+      }
+
+    },
+    {
+      "broker": "Admirals Markets",
+      "lose": "80",
+      "link": "https://admiralmarkets.com",
+      "Country": ["AllCountry",
+        "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina",
+        "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus",
+        "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Japan", "Kuwait",
+        "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa",
+        "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ],
+      "type": "Zero.MT5 Account",
+      "img": "admiralmarket",
+      "EURUSD": {
+        "EURUSD": 0.2,
+        "comission": 6
+      },
+      "USDJPY": {
+        "USDJPY": 0.4,
+        "comission": 6
+      },
+      "GBPUSD": {
+        "GBPUSD": 0.5,
+        "comission": 6
+      },
+      "USDCAD": {
+        "USDCAD": 1.2,
+        "comission": 6
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.5,
+        "comission": 6
+      },
+      "NZDUSD": {
+        "NZDUSD": 1.2,
+        "comission": 6
+      },
+      "EURJPY": {
+        "EURJPY": 0.9,
+        "comission": 6
+      },
+      "GBPJPY": {
+        "GBPJPY": 1.5,
+        "comission": 6
+      },
+      "USDCHF": {
+        "USDCHF": 1.0,
+        "comission": 6
+      },
+      "EURGBP": {
+        "EURGBP": 0.7,
+        "comission": 6
+      },
+      "NZDJPY": {
+        "NZDJPY": 0.9,
+        "comission": 6
+      },
+      "AUDJPY": {
+        "AUDJPY": 1.6,
+        "comission": 6
+      },
+      "GOLD": {
+        "GOLD": 0.24,
+        "comission": 6
+      }
+
+    },
+    {
+      "broker": "eToro ",
+      "lose": "74-89"
+      ,
+      "link": "https://etoro.com",
+
+      "Country": ["AllCountry",
+        "Australia", "Austria", "Brazil", "Cyprus", "Denmark", "Egypt", "Finland",
+        "France", "Germany", "Ireland", "Italy", "Luxembourg", "Netherlands",
+        "Norway", "Oman", "Poland", "Qatar", "Singapore", "South Africa",
+        "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ],
+      "img": "etoro",
+      "EURUSD": {
+        "EURUSD": 1.0,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.0,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.5,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 1.5,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 1.5,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 3.5,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 1.9,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 2.6,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 1.3,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.4,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 4.1,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 1.6,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.45,
+        "comission": 0
+      }
+    },
+    {
+      "broker": "Capital.com ",
+      "lose": "79",
+      "link": "https://www.capital.com",
+      "Country": ["AllCountry", "Angola", "Algeria", "Albania", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "img": "captial",
+      "EURUSD": {
+        "EURUSD": 0.6,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.0,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.3,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 1.9,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.6,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 1.7,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 2.5,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 2.9,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 1.5,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 2.0,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 3.5,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 0.9,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.5,
+        "comission": 0
+      }
+
+    },
+
+    {
+      "broker": "Swissquote ",
+      "lose": "77",
+      "link": "https://www.swissquote.com",
+      "Country": ["AllCountry",
+        "Andorra", "Austria", "Australia", "Albania", "Egypt", "Brazil", "Armenia", "Israel", "China", "Bahrain", "Argentina", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic",
+        "Denmark", "Estonia", "Finland", "France", "Germany", "Gibraltar", "Greece", "Guernsey", "Hungary",
+        "Iceland", "Ireland", "Isle of Man", "Italy", "Jersey", "Kuwait", "Latvia", "Liechtenstein",
+        "Lithuania", "Luxembourg", "Malta", "Monaco", "Netherlands", "New Zealand", "Norway", "Oman", "Poland", "Portugal",
+        "Qatar", "oman", "San Marino", "Saudi Arabia", "Slovakia", "Slovenia", "Spain", "Sweden", "Switzerland",
+        "United Arab Emirates", "United Kingdom"
+      ],
+
+      "img": "swisslogo",
+      "EURUSD": {
+        "EURUSD": 1.3,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.5,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.8,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 2.4,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 1.5,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 2.1,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 2.8,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 3.9,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 1.7,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.6,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 2.5,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 2.1,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.36,
+        "comission": 0
+      }
+    },
+
+    {
+      "broker": "IC Markets",
+      "lose": "74-32",
+      "link": "https://www.icmarkets.com",
+
+      "Country": ["AllCountry", "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Iceland", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "type": "Raw Spread Account",
+      "img": "ICmarket",
+
+      "EURUSD": {
+        "EURUSD": 0,
+        "comission": 7
+      },
+      "USDJPY": {
+        "USDJPY": 0.3,
+        "comission": 7
+      },
+      "GBPUSD": {
+        "GBPUSD": 0,
+        "comission": 7
+      },
+      "USDCAD": {
+        "USDCAD": 0,
+        "comission": 7
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.1,
+        "comission": 7
+      },
+      "NZDUSD": {
+        "NZDUSD": 0.1,
+        "comission": 7
+      },
+      "EURJPY": {
+        "EURJPY": 0.2,
+        "comission": 7
+      },
+      "GBPJPY": {
+        "GBPJPY": 0.9,
+        "comission": 7
+      },
+      "USDCHF": {
+        "USDCHF": 0.1,
+        "comission": 7
+      },
+      "EURGBP": {
+        "EURGBP": 0,
+        "comission": 7
+      },
+      "NZDJPY": {
+        "NZDJPY": 0.5,
+        "comission": 7
+      },
+      "AUDJPY": {
+        "AUDJPY": 0.5,
+        "comission": 7
+      },
+      "GOLD": {
+        "GOLD": 0.11,
+        "comission": 7
+      }
+
+    },
+
+    {
+      "broker": "IC Markets ",
+      "lose": "74-32",
+
+      "type": "Standard Account",
+      "link": "https://www.icmarkets.com",
+      "Country": ["AllCountry", "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Iceland", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "img": "ICmarket",
+      "EURUSD": {
+        "EURUSD": 0.8,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 0.8,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 0.8,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 0.8,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.8,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 1.3,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 1.2,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 1.9,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 1.2,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.1,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 1.8,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 1.5,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.19,
+        "comission": 0
+      }
+
+    },
+
+    {
+      "broker": "Fusion Markets",
+      "lose": "74-89",
+      "link": "https://fusionmarkets.com",
+      "type": "Zero Account",
+      "Country": ["AllCountry", "Afghanistan", "Albania", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "img": "fusionmarket",
+      "EURUSD": {
+        "EURUSD": 0,
+        "comission": 4.5
+      },
+      "USDJPY": {
+        "USDJPY": 0.6,
+        "comission": 4.5
+      },
+      "GBPUSD": {
+        "GBPUSD": 0,
+        "comission": 4.5
+      },
+      "USDCAD": {
+        "USDCAD": 0.1,
+        "comission": 4.5
+      },
+      "AUDUSD": {
+        "AUDUSD": 0,
+        "comission": 4.5
+      },
+      "NZDUSD": {
+        "NZDUSD": 0,
+        "comission": 4.5
+      },
+      "EURJPY": {
+        "EURJPY": 0.9,
+        "comission": 4.5
+      },
+      "GBPJPY": {
+        "GBPJPY": 0.8,
+        "comission": 4.5
+      },
+      "USDCHF": {
+        "USDCHF": 0.5,
+        "comission": 4.5
+      },
+      "EURGBP": {
+        "EURGBP": 0,
+        "comission": 4.5
+      },
+      "NZDJPY": {
+        "NZDJPY": 1.1,
+        "comission": 4.5
+      },
+      "AUDJPY": {
+        "AUDJPY": 1.5,
+        "comission": 4.5
+      },
+      "GOLD": {
+        "GOLD": 0.15,
+        "comission": 4.5
+      }
+
+    },
+
+
+    {
+      "broker": "Fusion Markets",
+      "type": " Classic Account",
+      "lose": "74-89",
+      "link": "https://fusionmarkets.com",
+      "Country": ["AllCountry", "Afghanistan", "Albania", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "img": "fusionmarket",
+      "EURUSD": {
+        "EURUSD": 0.9,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 2.5,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 0.9,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 0.9,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.9,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 0.9,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 2.5,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 3.4,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 1.5,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 0.9,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 2.1,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 2.0,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.22,
+        "comission": 0
+      }
+
+    },
+
+    {
+      "broker": "XM",
+      "lose": "74-89",
+      "link": "https://www.xm.com",
+      "Country": ["AllCountry", "Algeria", "Andorra", "Angola", "Antigua & Barbuda", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "type": "Standard Account",
+      "img": "xtm",
+      "EURUSD": {
+        "EURUSD": 1.8,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 3.2,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 2.2,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 2.4,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 2.2,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 2.5,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 3.8,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 4.5,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 2.1,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.9,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 2.7,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 3.5,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.40,
+        "comission": 0
+      }
+
+    },
+
+    {
+      "broker": "FXCM",
+      "lose": "71",
+      "link": "https://www.fxcm.com",
+      "Country": ["AllCountry", "Algeria", "Albania", "Andorra", "Denmark", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Egypt", "Finland", "Germany", "Iceland", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "img": "fxcmlogo",
+      "EURUSD": {
+        "EURUSD": 1.3,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.7,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.6,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 1.9,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 1.7,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 1.9,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 2.4,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 3.1,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 1.3,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 2.0,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 3.6,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 2.5,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.30,
+        "comission": 0
+      }
+
+    },
+    {
+      "broker": "Global Prime",
+      "lose": "74-89",
+      "link": "https://www.globalprime.com",
+      "Country": ["AllCountry", "Qatar", "Hong Kong", "Austria", "Denmark", "Bahrain", "Belgium", "Bangladesh", "Cyprus", "Kuwait", "Netherlands", "Ireland", "Israel", "Egypt", "American Samoa", "Aruba", "Armenia", "Antigua & Barbuda", "Angola", "Argentina", "Algeria", "Andorra", "Anguilla", "Poland", "Luxembourg", "Switzerland", "Italy", "Spain", "Israel", "Albania", "Saudi Arabia", "Finland", "United States", "China", "India", "Brazil", "United Kingdom", "Germany", "France", "Australia", "Canada", "Japan", "Sweden", "Sweden"],
+      "type": "Raw Account",
+      "img": "globalprime",
+
+      "EURUSD": {
+        "EURUSD": 0.1,
+        "comission": 7
+      },
+      "USDJPY": {
+        "USDJPY": 0.2,
+        "comission": 7
+      },
+      "GBPUSD": {
+        "GBPUSD": 0.3,
+        "comission": 7
+      },
+      "USDCAD": {
+        "USDCAD": 0.3,
+        "comission": 7
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.2,
+        "comission": 7
+      },
+      "NZDUSD": {
+        "NZDUSD": 0.4,
+        "comission": 7
+      },
+      "EURJPY": {
+        "EURJPY": 0.5,
+        "comission": 7
+      },
+      "GBPJPY": {
+        "GBPJPY": 1.0,
+        "comission": 7
+      },
+      "USDCHF": {
+        "USDCHF": 0.4,
+        "comission": 7
+      },
+      "EURGBP": {
+        "EURGBP": 0.3,
+        "comission": 7
+      },
+      "NZDJPY": {
+        "NZDJPY": 1.0,
+        "comission": 7
+      },
+      "AUDJPY": {
+        "AUDJPY": 0.5,
+        "comission": 7
+      },
+      "GOLD": {
+        "GOLD": 0.10,
+        "comission": 7
+      }
+
+    },
+    {
+      "broker": "Global Prime",
+      "link": "https://www.globalprime.com",
+      "lose": "74-89",
+
+      "type": "Standard Account",
+      "img": "globalprime",
+      "Country": ["AllCountry", "Qatar", "Hong Kong", "Austria", "Denmark", "Bahrain", "Belgium", "Bangladesh", "Cyprus", "Kuwait", "Netherlands", "Ireland", "Israel", "Egypt", "American Samoa", "Aruba", "Armenia", "Antigua & Barbuda", "Angola", "Argentina", "Algeria", "Andorra", "Anguilla", "Poland", "Luxembourg", "Switzerland", "Italy", "Spain", "Israel", "Albania", "Saudi Arabia", "Finland", "United States", "China", "India", "Brazil", "United Kingdom", "Germany", "France", "Australia", "Canada", "Japan", "Sweden", "Sweden"],
+      "EURUSD": {
+        "EURUSD": 1.0,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.3,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.3,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 1.2,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 1.0,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 1.2,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 1.5,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 1.9,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 1.3,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.2,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 1.9,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 1.4,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.20,
+        "comission": 0
+      }
+
+    },
+
+    {
+      "broker": "AvaTrade ",
+      "link": "https://www.avatrade.com",
+      "lose": "76",
+
+      "Country": ["AllCountry", "American Samoa", "Albania", "Afghanistan", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Japan", "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "img": "avatrade",
+      "EURUSD": {
+        "EURUSD": 0.9,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.0,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.5,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 2.0,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 1.1,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 1.8,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 1.8,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 2.5,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 1.6,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.5,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 2.7,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 2.1,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.36,
+        "comission": 0
+      }
+
+    },
+
+    {
+      "broker": "FP Markets",
+      "link": "https://www.fpmarkets.com",
+      "lose": "74-89",
+      "type": "Raw Account",
+      "Country": ["AllCountry", "Qatar", "Bangladesh", "Bahrain", "Egypt", "Kuwait", "Israel", "Algeria", "Oman", "Albania", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Finland", "France", "Germany", "Greece", "Hong Kong", "Hungary", "Iceland", "Ireland", "Italy", "Luxembourg", "Malta", "Monaco", "Netherlands", "Norway", "Poland", "Portugal", "oman", "San Marino", "Saudi Arabia", "Singapore", "Slovakia", "Slovenia", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "img": "fpmarket",
+
+      "EURUSD": {
+        "EURUSD": 0.1,
+        "comission": 6
+      },
+      "USDJPY": {
+        "USDJPY": 0.3,
+        "comission": 6
+      },
+      "GBPUSD": {
+        "GBPUSD": 0.2,
+        "comission": 6
+      },
+      "USDCAD": {
+        "USDCAD": 0.4,
+        "comission": 6
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.3,
+        "comission": 6
+      },
+      "NZDUSD": {
+        "NZDUSD": 0.6,
+        "comission": 6
+      },
+      "EURJPY": {
+        "EURJPY": 0.2,
+        "comission": 6
+      },
+      "GBPJPY": {
+        "GBPJPY": 0.8,
+        "comission": 6
+      },
+      "USDCHF": {
+        "USDCHF": 0.5,
+        "comission": 6
+      },
+      "EURGBP": {
+        "EURGBP": 0.1,
+        "comission": 6
+      },
+      "NZDJPY": {
+        "NZDJPY": 1.0,
+        "comission": 6
+      },
+      "AUDJPY": {
+        "AUDJPY": 0.3,
+        "comission": 6
+      },
+      "GOLD": {
+        "GOLD": 0.12,
+        "comission": 6
+      }
+
+    },
+
+    {
+      "broker": "Multibank",
+      "link": "https://www.multibank.com",
+
+      "lose": "74-89",
+
+      "type": "PRO Account",
+      "Country": ["AllCountry", "American Samoa", "Israel", "Albania", "Afghanistan", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "img": "multibank",
+
+      "EURUSD": {
+        "EURUSD": 0.8,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 0.7,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 0.8,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 0.8,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.7,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 0.8,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 1.1,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 1.3,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 0.8,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 0.9,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 1.4,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 1.1,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.15,
+        "comission": 0
+      }
+
+    },
+
+    {
+      "broker": "Eightcap",
+      "link": "https://www.eightcap.com",
+      "lose": "77.78",
+
+      "type": "Standard Account",
+      "Country": ["AllCountry", "Angola", "Aruba", "Oman", "Egypt", "Bangladesh", "American Samoa", "Bahrain", "China", "Kuwait", "Armenia", "Algeria", "Argentina", "Saudi Arabia", "Italy", "Albania", "Andorra", "Anguilla", "Antigua & Barbuda", "Australia", "Austria", "Belgium", "Brazil", "Denmark", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Luxembourg", "Netherlands", "New Zealand", "Poland", "Singapore", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "img": "Eightcap",
+      "EURUSD": {
+        "EURUSD": 1.0,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.3,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.3,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 1.2,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 1.2,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 1.5,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 1.7,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 2.0,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 1.3,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.0,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 2.1,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 1.7,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.12,
+        "comission": 0
+      }
+
+    },
+
+    {
+      "broker": "Vantage",
+      "type": "Raw Account",
+      "link": "https://www.vantagemarkets.com",
+      "lose": "81",
+
+      "Country": ["AllCountry", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda",
+        "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil",
+        "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy",
+        "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore",
+        "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ]
+      ,
+      "img": "vintage",
+      "EURUSD": {
+        "EURUSD": 0.2,
+        "comission": 6
+      },
+      "USDJPY": {
+        "USDJPY": 0.5,
+        "comission": 6
+      },
+      "GBPUSD": {
+        "GBPUSD": 0.2,
+        "comission": 6
+      },
+      "USDCAD": {
+        "USDCAD": 0.7,
+        "comission": 6
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.3,
+        "comission": 6
+      },
+      "NZDUSD": {
+        "NZDUSD": 0.6,
+        "comission": 6
+      },
+      "EURJPY": {
+        "EURJPY": 0.5,
+        "comission": 6
+      },
+      "GBPJPY": {
+        "GBPJPY": 0.3,
+        "comission": 6
+      },
+      "USDCHF": {
+        "USDCHF": 0.2,
+        "comission": 6
+      },
+      "EURGBP": {
+        "EURGBP": 0.3,
+        "comission": 6
+      },
+      "NZDJPY": {
+        "NZDJPY": 0.7,
+        "comission": 6
+      },
+      "AUDJPY": {
+        "AUDJPY": 0.7,
+        "comission": 6
+      },
+      "GOLD": {
+        "GOLD": 0.10,
+        "comission": 6
+      }
+
+    },
+    {
+      "broker": "Trade Nation",
+      "link": "https://www.tradenation.com",
+      "lose": "74-89",
+      "Country": ["AllCountry", "Albania", "Algeria", "Andorra", "Anguilla", "Antigua & Barbuda",
+        "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China",
+        "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Japan",
+        "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore",
+        "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ]
+      ,
+      "img": "tradenation",
+      "EURUSD": {
+        "EURUSD": 0.2,
+        "comission": 6
+      },
+      "USDJPY": {
+        "USDJPY": 0.5,
+        "comission": 6
+      },
+      "GBPUSD": {
+        "GBPUSD": 0.2,
+        "comission": 6
+      },
+      "USDCAD": {
+        "USDCAD": 0.7,
+        "comission": 6
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.3,
+        "comission": 6
+      },
+      "NZDUSD": {
+        "NZDUSD": 0.6,
+        "comission": 6
+      },
+      "EURJPY": {
+        "EURJPY": 0.5,
+        "comission": 6
+      },
+      "GBPJPY": {
+        "GBPJPY": 0.3,
+        "comission": 6
+      },
+      "USDCHF": {
+        "USDCHF": 0.2,
+        "comission": 6
+      },
+      "EURGBP": {
+        "EURGBP": 0.3,
+        "comission": 6
+      },
+      "NZDJPY": {
+        "NZDJPY": 0.7,
+        "comission": 6
+      },
+      "AUDJPY": {
+        "AUDJPY": 0.7,
+        "comission": 6
+      },
+      "GOLD": {
+        "GOLD": 0.10,
+        "comission": 6
+      }
+
+    },
+
+    {
+      "broker": "HYCM ",
+      "link": "https://www.hycm.com",
+      "lose": "74-89",
+
+      "Country": ["AllCountry", "Israel", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "Germany", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "type": "Raw Account",
+      "img": "Hycmlogo",
+      "EURUSD": {
+        "EURUSD": 0.2,
+        "comission": 8
+      },
+      "USDJPY": {
+        "USDJPY": 0.2,
+        "comission": 8
+      },
+      "GBPUSD": {
+        "GBPUSD": 0.4,
+        "comission": 8
+      },
+      "USDCAD": {
+        "USDCAD": 0.6,
+        "comission": 8
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.4,
+        "comission": 8
+      },
+      "NZDUSD": {
+        "NZDUSD": 0.8,
+        "comission": 8
+      },
+      "EURJPY": {
+        "EURJPY": 0.7,
+        "comission": 8
+      },
+      "GBPJPY": {
+        "GBPJPY": 1.5,
+        "comission": 8
+      },
+      "USDCHF": {
+        "USDCHF": 0.5,
+        "comission": 8
+      },
+      "EURGBP": {
+        "EURGBP": 0.6,
+        "comission": 8
+      },
+      "NZDJPY": {
+        "NZDJPY": 1.5,
+        "comission": 8
+      },
+      "AUDJPY": {
+        "AUDJPY": 1.0,
+        "comission": 8
+      },
+      "GOLD": {
+        "GOLD": 0.19,
+        "comission": 8
+      }
+
+    },
+
+    {
+      "broker": "HFM ",
+      "link": "https://www.hfm.com",
+      "lose": "74-89",
+      "type": " Premium Account",
+      "Country": ["AllCountry", "United Arab Emirates"
+        , "United Kingdom"],
+
+      "img": "HFmarket",
+      "EURUSD": {
+        "EURUSD": 1.5,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 2.1,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 2.1,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 2.7,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 2.0,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 2.2,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 2.9,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 3.4,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 2.3,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.8,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 3.3,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 3.0,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.35,
+        "comission": 0
+      }
+
+    },
+
+    {
+      "broker": "Moneta Markets",
+      "link": "https://www.monetamarkets.com",
+      "lose": "74-89",
+
+      "type": "Prime Account",
+      "Country": ["AllCountry", "Andorra", "Algeria", "Angola", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Denmark", "Egypt", "Finland", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Sweden", "Switzerland", "United Arab Emirates"],
+      "img": "monetamarket",
+      "EURUSD": {
+        "EURUSD": 0.2,
+        "comission": 6
+      },
+      "USDJPY": {
+        "USDJPY": 0.4,
+        "comission": 6
+      },
+      "GBPUSD": {
+        "GBPUSD": 0.7,
+        "comission": 6
+      },
+      "USDCAD": {
+        "USDCAD": 0.8,
+        "comission": 6
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.6,
+        "comission": 6
+      },
+      "NZDUSD": {
+        "NZDUSD": 0.7,
+        "comission": 6
+      },
+      "EURJPY": {
+        "EURJPY": 0.6,
+        "comission": 6
+      },
+      "GBPJPY": {
+        "GBPJPY": 0.4,
+        "comission": 6
+      },
+      "USDCHF": {
+        "USDCHF": 0.7,
+        "comission": 6
+      },
+      "EURGBP": {
+        "EURGBP": 0.5,
+        "comission": 6
+      },
+      "NZDJPY": {
+        "NZDJPY": 0.9,
+        "comission": 6
+      },
+      "AUDJPY": {
+        "AUDJPY": 0.9,
+        "comission": 6
+      },
+      "GOLD": {
+        "GOLD": 0.15,
+        "comission": 6
+      }
+
+    },
+
+    {
+      "broker": "GO Markets",
+      "link": "https://www.gomarkets.com",
+      "type": "Plus Account",
+      "lose": "74-89",
+
+      "Country": ["AllCountry", "Luxembourg", "Oman", "Egypt", "Brazil", "Bangladesh", "Cyprus", "Ireland", "Denmark", "Austria", "Netherlands", "Bahrain", "Hong Kong", "Armenia", "Angola", "Aruba", "Antigua & Barbuda", "Albania", "Andorra", "Argentina", "Algeria", "Poland", "Sweden", "Japan", "Italy", "Australia", "France", "Finland", "Germany", "United Kingdom", "Kuwait", "South Africa", "Saudi Arabia", "United Arab Emirates", "New Zealand"]
+      ,
+      "img": "gomarket",
+      "EURUSD": {
+        "EURUSD": 0.1,
+        "comission": 5
+      },
+      "USDJPY": {
+        "USDJPY": 0.4,
+        "comission": 5
+      },
+      "GBPUSD": {
+        "GBPUSD": 0.3,
+        "comission": 5
+      },
+      "USDCAD": {
+        "USDCAD": 0.4,
+        "comission": 5
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.2,
+        "comission": 5
+      },
+      "NZDUSD": {
+        "NZDUSD": 0.3,
+        "comission": 5
+      },
+      "EURJPY": {
+        "EURJPY": 0.8,
+        "comission": 5
+      },
+      "GBPJPY": {
+        "GBPJPY": 1.3,
+        "comission": 5
+      },
+      "USDCHF": {
+        "USDCHF": 0.5,
+        "comission": 5
+      },
+      "EURGBP": {
+        "EURGBP": 0.3,
+        "comission": 5
+      },
+      "NZDJPY": {
+        "NZDJPY": 1.0,
+        "comission": 5
+      },
+      "AUDJPY": {
+        "AUDJPY": 0.5,
+        "comission": 5
+      },
+      "GOLD": {
+        "GOLD": 0.20,
+        "comission": 0
+      }
+
+    },
+
+
+    {
+      "broker": "Markets.com",
+      "link": "https://www.markets.com",
+      "lose": "67.7",
+      "img": "marketcom",
+      "Country": ["AllCountry", "Saudi Arabia", "Egypt", "Albania", "Andorra", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Iceland", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "EURUSD": {
+        "EURUSD": 0.6,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 1.0,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.5,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 1.7,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 1.0,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 2.0,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 1.8,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 4.0,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 2.0,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 1.5,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 2.8,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 2.0,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0.30,
+        "comission": 0
+      }
+
+    },
+    {
+      "broker": "FXTM",
+      "link": "https://www.forextime.com",
+      "lose": "67.7",
+      "img": "fxtm",
+      "Country": ["AllCountry", "Afghanistan", "Israel", "Algeria", "Albania", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Egypt", "Iceland", "Kuwait", "New Zealand", "Norway", "Oman", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "EURUSD": {
+        "EURUSD": 0,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 0,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 0,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 0,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 0,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 0,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 0,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 0,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 0,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 0,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 0,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 0,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0,
+        "comission": 0
+      }
+
+    },
+
+    {
+      "broker": "Blackbull",
+      "link": "https://www.blackbull.com",
+      "lose": "74-89",
+
+      "type": "Prime Account",
+      "Country": ["AllCountry",
+        "Albania", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina",
+        "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus",
+        "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Kuwait",
+        "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa",
+        "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ],
+      "img": "blackbull",
+
+      "EURUSD": {
+        "EURUSD": 0.1,
+        "comission": 6
+      },
+      "USDJPY": {
+        "USDJPY": 0.7,
+        "comission": 6
+      },
+      "GBPUSD": {
+        "GBPUSD": 1.0,
+        "comission": 6
+      },
+      "USDCAD": {
+        "USDCAD": 0.7,
+        "comission": 6
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.6,
+        "comission": 6
+      },
+      "NZDUSD": {
+        "NZDUSD": 0.7,
+        "comission": 6
+      },
+      "EURJPY": {
+        "EURJPY": 0.8,
+        "comission": 6
+      },
+      "GBPJPY": {
+        "GBPJPY": 0.9,
+        "comission": 6
+      },
+      "USDCHF": {
+        "USDCHF": 0.8,
+        "comission": 6
+      },
+      "EURGBP": {
+        "EURGBP": 0.6,
+        "comission": 6
+      },
+      "NZDJPY": {
+        "NZDJPY": 1.2,
+        "comission": 6
+      },
+      "AUDJPY": {
+        "AUDJPY": 1.2,
+        "comission": 6
+      },
+      "GOLD": {
+        "GOLD": 0.12,
+        "comission": 6
+      }
+
+    },
+    {
+      "broker": "Axi",
+      "link": "https://www.axi.com",
+      "lose": "83.1",
+
+      "type": "Prime Account",
+      "Country": ["AllCountry",
+        "Afghanistan",
+        "Albania",
+        "Algeria",
+        "American Samoa",
+        "Andorra",
+        "Angola",
+        "Anguilla",
+        "Antigua & Barbuda",
+        "Argentina",
+        "Armenia",
+        "Aruba",
+        "Australia",
+        "Austria",
+        "Bahrain",
+        "Bangladesh",
+        "Belgium",
+        "Brazil",
+        "China",
+        "Cyprus",
+        "Denmark",
+        "Egypt",
+        "Finland",
+        "France",
+        "Germany",
+        "Hong Kong",
+        "Ireland",
+        "Israel",
+        "Italy",
+        "Kuwait",
+        "Netherlands",
+        "New Zealand",
+        "Oman",
+        "Poland",
+        "Qatar",
+        "Saudi Arabia",
+        "Singapore",
+        "South Africa",
+        "Spain",
+        "Sweden",
+        "Switzerland",
+        "United Arab Emirates",
+        "United Kingdom"
+      ],
+      "img": "axi",
+
+      "EURUSD": {
+        "EURUSD": 0,
+        "comission": 0
+      },
+      "USDJPY": {
+        "USDJPY": 0,
+        "comission": 0
+      },
+      "GBPUSD": {
+        "GBPUSD": 0,
+        "comission": 0
+      },
+      "USDCAD": {
+        "USDCAD": 0,
+        "comission": 0
+      },
+      "AUDUSD": {
+        "AUDUSD": 0,
+        "comission": 0
+      },
+      "NZDUSD": {
+        "NZDUSD": 0,
+        "comission": 0
+      },
+      "EURJPY": {
+        "EURJPY": 0,
+        "comission": 0
+      },
+      "GBPJPY": {
+        "GBPJPY": 0,
+        "comission": 0
+      },
+      "USDCHF": {
+        "USDCHF": 0,
+        "comission": 0
+      },
+      "EURGBP": {
+        "EURGBP": 0,
+        "comission": 0
+      },
+      "NZDJPY": {
+        "NZDJPY": 0,
+        "comission": 0
+      },
+      "AUDJPY": {
+        "AUDJPY": 0,
+        "comission": 0
+      },
+      "GOLD": {
+        "GOLD": 0,
+        "comission": 0
+      }
+
+    },
+
+    {
+      "broker": "TMGM",
+      "link": "https://www.tmgm.com",
+      "lose": "74-89",
+
+      "type": " Edge Account",
+      "Country": ["AllCountry",
+        "Afghanistan", "Albania", "Israel", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda",
+        "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China",
+        "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Japan",
+        "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Singapore",
+        "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ],
+      "img": "tmgm",
+      "EURUSD": {
+        "EURUSD": 0,
+        "comission": 7
+      },
+      "USDJPY": {
+        "USDJPY": 0.2,
+        "comission": 7
+      },
+      "GBPUSD": {
+        "GBPUSD": 0.2,
+        "comission": 7
+      },
+      "USDCAD": {
+        "USDCAD": 0.2,
+        "comission": 7
+      },
+      "AUDUSD": {
+        "AUDUSD": 0.1,
+        "comission": 7
+      },
+      "NZDUSD": {
+        "NZDUSD": 0.3,
+        "comission": 7
+      },
+      "EURJPY": {
+        "EURJPY": 0.4,
+        "comission": 7
+      },
+      "GBPJPY": {
+        "GBPJPY": 0.9,
+        "comission": 7
+      },
+      "USDCHF": {
+        "USDCHF": 0.4,
+        "comission": 7
+      },
+      "EURGBP": {
+        "EURGBP": 0.3,
+        "comission": 7
+      },
+      "NZDJPY": {
+        "NZDJPY": 1.2,
+        "comission": 7
+      },
+      "AUDJPY": {
+        "AUDJPY": 0.3,
+        "comission": 7
+      },
+      "GOLD": {
+        "GOLD": 0.10,
+        "comission": 7
+      }
+
+    }
+  ]
+}
