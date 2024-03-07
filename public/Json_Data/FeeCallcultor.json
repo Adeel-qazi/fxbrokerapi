@@ -1042,7 +1042,7 @@
 
     },
     {
-      "broker": "eToro ",
+      "broker": "eToro",
       "lose": "74-89"
       ,
       "link": "https://etoro.com",
@@ -1108,7 +1108,7 @@
       }
     },
     {
-      "broker": "Capital.com ",
+      "broker": "Capital.com",
       "lose": "79",
       "link": "https://www.capital.com",
       "Country": ["AllCountry", "Angola", "Algeria", "Albania", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
@@ -1169,7 +1169,7 @@
     },
 
     {
-      "broker": "Swissquote ",
+      "broker": "Swissquote",
       "lose": "77",
       "link": "https://www.swissquote.com",
       "Country": ["AllCountry",
@@ -1300,7 +1300,7 @@
     },
 
     {
-      "broker": "IC Markets ",
+      "broker": "IC Markets",
       "lose": "74-32",
 
       "link": "https://www.icmarkets.com",
@@ -1734,7 +1734,7 @@
     },
 
     {
-      "broker": "AvaTrade ",
+      "broker": "AvaTrade",
       "link": "https://www.avatrade.com",
       "lose": "76",
 
@@ -2122,7 +2122,7 @@
     },
 
     {
-      "broker": "HYCM ",
+      "broker": "HYCM",
       "link": "https://www.hycm.com",
       "lose": "74-89",
 
@@ -2185,7 +2185,7 @@
     },
 
     {
-      "broker": "HFM ",
+      "broker": "HFM",
       "link": "https://www.hfm.com",
       "lose": "74-89",
       "type": " Premium Account",
