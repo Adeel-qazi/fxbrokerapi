@@ -50,6 +50,7 @@ class ApiDataController extends Controller
             if ($uploadedFile->isFile()) {
                 
             $filePath =  'Json_Data/brokerlogoclient/'.$file->getFilename();
+            
                 Image::create([
                     'filename' => $uploadedFile->getFilename(),
                     'path' => $filePath,
@@ -57,7 +58,6 @@ class ApiDataController extends Controller
 
             }
         }
-
         $brokerDAta = str_replace("\r\n", "", $brokerDAta);
         $highestData = str_replace("\r\n", "", $highest);
         $decodedBrokers = json_decode($brokerDAta, true)['BrokerData'];

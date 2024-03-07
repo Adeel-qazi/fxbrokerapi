@@ -666,7 +666,6 @@
       "link": "https://www.cityindex.com",
 
       "Country": ["AllCountry", "Australia", "United Arab Emirates", "United Kingdom"],
-      "type": "Raw+ Account",
       "img": "cityindex",
       "lose": "70",
       "EURUSD": {

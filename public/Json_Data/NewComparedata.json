@@ -160,7 +160,7 @@
         }
       ]
     },
-    {
+    { 
       "BrokerName": "XTB",
       "url": "https://www.xtb.com",
       "Country": ["AllCountry",
@@ -1618,7 +1618,6 @@
     },
     {
       "BrokerName": "Eightcap",
-
       "url": "https://www.eightcap.com",
       "Country": ["AllCountry", "Angola", "Aruba", "Oman", "Egypt", "Bangladesh", "American Samoa", "Behrain", "China", "Kuwait", "Armenia", "Algeria", "Argentina", "Saudi Arabia", "Italy", "Albania", "Andorra", "Anguilla", "Antigua & Barbuda", "Australia", "Austria", "Belgium", "Brazil", "Denmark", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Luxembourg", "Netherlands", "New Zealand", "Poland", "Singapore", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
 
