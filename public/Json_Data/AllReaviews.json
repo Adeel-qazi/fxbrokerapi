@@ -126,7 +126,7 @@
     "Recommended": false
   },
   {
-    "Name": "Fxpro",
+    "Name": "FxPro",
     "Country": ["AllCountry", "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Italy", "Japan", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
     "url": "https://www.fxpro.com",
     "lose": "81.85",
@@ -310,7 +310,7 @@
   },
   {
     "lose": "76",
-    "Name": "Avatrade",
+    "Name": "AvaTrade",
     "Country": ["AllCountry", "American Samoa", "Albania", "Afghanistan", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Japan", "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
     "url": "https://www.avatrade.com",
     "ratting": 4.6,

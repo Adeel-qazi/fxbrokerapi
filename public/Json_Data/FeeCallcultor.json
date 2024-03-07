@@ -474,7 +474,7 @@
 
     },
     {
-      "broker": "Fxpro",
+      "broker": "FxPro",
       "lose": "81.85",
       "link": "https://www.fxpro.com",
       "Country": ["AllCountry", "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Italy", "Japan", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
@@ -1859,7 +1859,7 @@
     },
 
     {
-      "broker": "Multibank",
+      "broker": "MultiBank",
       "link": "https://www.multibank.com",
 
       "lose": "74-89",
@@ -2312,7 +2312,7 @@
     },
 
     {
-      "broker": "GO Markets",
+      "broker": "Go Markets",
       "link": "https://www.gomarkets.com",
       "type": "Plus Account",
       "lose": "74-89",
@@ -2498,7 +2498,7 @@
     },
 
     {
-      "broker": "Blackbull",
+      "broker": "BlackBull",
       "link": "https://www.blackbull.com",
       "lose": "74-89",
 

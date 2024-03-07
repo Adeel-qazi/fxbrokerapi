@@ -433,7 +433,7 @@
       ]
     },
     {
-      "BrokerName": "Fxpro",
+      "BrokerName": "FxPro",
       "url": "https://www.fxpro.com",
       "Country": ["AllCountry", "Albania", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Italy", "Japan", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
       "score": "4.6",
@@ -1419,7 +1419,7 @@
       ]
     },
     {
-      "BrokerName": "Avatrade",
+      "BrokerName": "AvaTrade",
       "url": "https://www.avatrade.com",
       "Country": ["AllCountry", "American Samoa", "Albania", "Afghanistan", "Algeria", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Japan", "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
       "score": "4.6",
