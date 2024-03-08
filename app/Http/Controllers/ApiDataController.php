@@ -195,7 +195,7 @@ class ApiDataController extends Controller
         foreach ($brokerData as &$broker) {
             $brokerName = $broker['name'];
         
-            if (array_key_exists(strtolower($brokerName), array_change_key_case($images, CASE_LOWER))) {
+            if (array_key_exists($brokerName, $images)) {
                 $broker['broker_img'] = $images[$brokerName];
             } else {
                 $broker['broker_img'] = 'default_path'; // Change 'default_path' to your desired default value
@@ -245,7 +245,7 @@ class ApiDataController extends Controller
         foreach ($highestData as &$highest) {
             $highestName = $highest['name'];
             
-            if (array_key_exists(strtolower($highestName),array_change_key_case($images, CASE_LOWER))) {
+            if (array_key_exists($highestName,$images)) {
                 $highest['broker_img'] = $images[$highestName];
             } else {
                 $highest['broker_img'] = 'default_path'; // Change 'default_path' to your desired default value
@@ -296,7 +296,7 @@ class ApiDataController extends Controller
         foreach ($compareBrokerData as &$compareBroker) {
             $compareBrokerName = $compareBroker['brokername'];
             
-            if (array_key_exists(strtolower($compareBrokerName), array_change_key_case($images, CASE_LOWER))) {
+            if (array_key_exists($compareBrokerName, $images)) {
                 $compareBroker['img'] = $images[$compareBrokerName];
             } else {
                 $compareBroker['img'] = 'default_path'; // Change 'default_path' to your desired default value
@@ -355,7 +355,7 @@ class ApiDataController extends Controller
         foreach ($feeData as &$fee) {
             $feeName = $fee['broker'];
         
-            if (array_key_exists(strtolower($feeName), array_change_key_case($images, CASE_LOWER))) {
+            if (array_key_exists($feeName,$images)) {
 
                 $fee['image'] = $images[$feeName];
             } else {

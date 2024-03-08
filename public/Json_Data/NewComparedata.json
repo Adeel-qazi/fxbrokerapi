@@ -1821,7 +1821,7 @@
       ]
     },
     {
-      "BrokerName": "HF Markets",
+      "BrokerName": "HFM",
       "Country": ["AllCountry", "United Arab Emirates"
         , "United Kingdom"],
       "url": "https://www.hfm.com",
