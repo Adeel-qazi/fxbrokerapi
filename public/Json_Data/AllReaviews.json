@@ -142,6 +142,7 @@
     "Name": "City Index",
     "Country": ["AllCountry", "Australia", "United Arab Emirates", "United Kingdom"],
     "lose": "70",
+    "type": "Raw Account",
     "path": "/city-index-review",
     "url": "https://www.cityindex.com",
     "ratting": 4.7,
@@ -177,8 +178,8 @@
     "Recommended": false
   },
   {
-    "lose": "74-89",
     "Name": "Oanda",
+    "lose": "74-89",
     "url": "https://www.oanda.com",
     "Country": ["AllCountry", "Algeria", "Israel", "Andorra", "American Samoa", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Ireland", "Israel", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
     "ratting": 4.7,

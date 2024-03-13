@@ -2,10 +2,13 @@
 
 namespace App\Http\Controllers;
 
+use App\Exports\ExportScamBroker;
+use App\Imports\ImportScamBroker;
 use App\Models\Broker;
 use App\Models\Comparebroker;
 use App\Models\FeeData;
 use App\Models\HighestData;
+use App\Models\ScamBroker;
 use Illuminate\Http\Request;
 use GuzzleHttp\Client;
 use Illuminate\Support\Facades\Validator;
@@ -13,6 +16,7 @@ use File;
 use App\Traits\ImageUploadTrait;
 use Illuminate\Support\Str;
 use App\Models\Image;
+use Maatwebsite\Excel\Facades\Excel;
 
 
 
@@ -24,29 +28,33 @@ class ApiDataController extends Controller
 
     public function store(Request $request)
     {
-
         $brokerDAta = file_get_contents(public_path("Json_Data/AllReaviews.json"));
         $feeData = file_get_contents(public_path("Json_Data/FeeCallcultor.json"));
         $compareBroker = file_get_contents(public_path("Json_Data/NewComparedata.json"));
         $highest = file_get_contents(public_path("Json_Data/HigestData.json"));
+        
+        // Import Excel file
+        $scamBroker = $request->file('file')->store('files');
+        $excelFullPath = storage_path("app/{$scamBroker}");
+        
+        Excel::import(new ImportScamBroker, $excelFullPath);
 
 
-        
-        
+
         $folderPath = public_path('Json_Data/brokerlogoclient');
-        
+
         if ($brokerDAta === null || $feeData === null || $compareBroker === null || $highest === null || $folderPath === null) {
             return response()->json(['error' => 'Failed to fetch data.'], 500);
         }
-        
+
         $files = File::allfiles($folderPath);
         foreach ($files as $file) {
             if ($file->isFile()) {
                 $filename = pathinfo($file->getFilename(), PATHINFO_FILENAME);
                 // $filename2 = rtrim(str_replace(['logo','2'], '', $filename));
 
-                $extension = $file->getExtension(); 
-                
+                $extension = $file->getExtension();
+
                 $filePath = asset('Json_Data/brokerlogoclient/' . $filename . '.' . $extension);
                 Image::create([
                     'filename' => $filename,
@@ -170,8 +178,6 @@ class ApiDataController extends Controller
 
 
 
-
-
     public function fetchBroker()
     {
 
@@ -182,7 +188,7 @@ class ApiDataController extends Controller
         foreach ($imageData as $image) {
             $images[$image->filename] = $image->path;
         }
-    
+
 
 
         $name = request()->name;
@@ -194,14 +200,14 @@ class ApiDataController extends Controller
 
         foreach ($brokerData as &$broker) {
             $brokerName = $broker['name'];
-        
+
             if (array_key_exists($brokerName, $images)) {
                 $broker['broker_img'] = $images[$brokerName];
             } else {
                 $broker['broker_img'] = 'default_path'; // Change 'default_path' to your desired default value
             }
         }
-     
+
 
         $brokerData = $brokerData->map(function ($data) {
             $data->country = json_decode($data->country, true);
@@ -241,17 +247,17 @@ class ApiDataController extends Controller
             $highestData->where('name', $name);
         $highestData = $highestData->get();
 
-        
+
         foreach ($highestData as &$highest) {
             $highestName = $highest['name'];
-            
-            if (array_key_exists($highestName,$images)) {
+
+            if (array_key_exists($highestName, $images)) {
                 $highest['broker_img'] = $images[$highestName];
             } else {
                 $highest['broker_img'] = 'default_path'; // Change 'default_path' to your desired default value
             }
         }
-        
+
 
         $highestData = $highestData->map(function ($data) {
             $data->country = json_decode($data->country, true);
@@ -295,7 +301,7 @@ class ApiDataController extends Controller
 
         foreach ($compareBrokerData as &$compareBroker) {
             $compareBrokerName = $compareBroker['brokername'];
-            
+
             if (array_key_exists($compareBrokerName, $images)) {
                 $compareBroker['img'] = $images[$compareBrokerName];
             } else {
@@ -354,8 +360,8 @@ class ApiDataController extends Controller
 
         foreach ($feeData as &$fee) {
             $feeName = $fee['broker'];
-        
-            if (array_key_exists($feeName,$images)) {
+
+            if (array_key_exists($feeName, $images)) {
 
                 $fee['image'] = $images[$feeName];
             } else {
@@ -400,6 +406,98 @@ class ApiDataController extends Controller
 
     }
 
+  
+
+    public function fetchScamBroker()
+    {
+
+
+        $imageData = Image::all();
+
+        $images = [];
+        foreach ($imageData as $image) {
+            $images[$image->filename] = $image->path;
+        }
+
+
+
+        $scamDatas = ScamBroker::all();
+
+        $scams = [];
+        foreach ($scamDatas as $scam) {
+            $scams[$scam->name] = $scam->body;
+        }
+
+
+
+        $name = request()->scam_name;
+
+        $brokerData = Broker::query();
+        if ($name)
+            $brokerData->where('name', $name);
+        $brokerData = $brokerData->get();
+
+        foreach ($brokerData as &$broker) {
+            $brokerName = $broker['name'];
+
+            $broker['broker_img'] = array_key_exists($brokerName, $images) ? $images[$brokerName] : 'default_path';
+
+            // Update 'body' based on conditions
+            $broker['body'] = array_key_exists($brokerName, $scams) ? $scams[$brokerName] : 'default_path';
+
+        }
+
+
+
+       
+
+
+
+        $brokerData = $brokerData->map(function ($data) {
+            $data->country = json_decode($data->country, true);
+            return $data;
+        });
+
+        $data = [];
+        if ($name) {
+            foreach ($brokerData as $broker) {
+                $data[] = [
+                    'broker_name' => $broker->name,
+                    'broker_img' => $broker->url,
+                    'broker_ratting' => $broker->ratting,
+                    'broker_lose' => $broker->lose,
+                    'broker_path' => $broker->path,
+                    'broker_image' => $broker->broker_img,
+                    'broker_recommended' => $broker->recommended,
+                    'broker_body' => $broker->body,
+                ];
+            }
+            return response()->json(['status' => true, 'message' => 'Broker retrieved successfully', 'data' => $data], 200);
+        }
+        return response()->json(['status' => true, 'message' => 'Broker retrieved successfully', 'data' => $brokerData], 200);
+
+
+    }
+
+
+    
+
+    public function import(Request $request)
+    {
+
+
+        Excel::import(
+            new ImportScamBroker,
+            $request->file('file')->store('files')
+        );
+        return redirect()->back();
+    }
+
+    public function exportUsers(Request $request)
+    {
+        return Excel::download(new ExportScamBroker, 'users.xlsx');
+    }
+
 
     public function fetchImages()
     {
@@ -413,7 +511,7 @@ class ApiDataController extends Controller
                     'path' => $image->path, // Use the loop variable
                 ];
             }
-    
+
             return response()->json(['status' => true, 'message' => 'Images retrieved successfully', 'data' => $images], 200);
         } else {
             return response()->json(['status' => false, 'message' => 'No images found', 'data' => []], 404);
