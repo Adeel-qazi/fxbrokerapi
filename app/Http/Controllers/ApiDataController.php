@@ -412,91 +412,17 @@ class ApiDataController extends Controller
     {
 
 
-        $imageData = Image::all();
-
-        $images = [];
-        foreach ($imageData as $image) {
-            $images[$image->filename] = $image->path;
-        }
-
-
-
-        $scamDatas = ScamBroker::all();
-
-        $scams = [];
-        foreach ($scamDatas as $scam) {
-            $scams[$scam->name] = $scam->body;
-        }
-
-
-
-        $name = request()->scam_name;
-
-        $brokerData = Broker::query();
-        if ($name)
-            $brokerData->where('name', $name);
-        $brokerData = $brokerData->get();
-
-        foreach ($brokerData as &$broker) {
-            $brokerName = $broker['name'];
-
-            $broker['broker_img'] = array_key_exists($brokerName, $images) ? $images[$brokerName] : 'default_path';
-
-            // Update 'body' based on conditions
-            $broker['body'] = array_key_exists($brokerName, $scams) ? $scams[$brokerName] : 'default_path';
-
-        }
-
-
-
-       
-
-
-
-        $brokerData = $brokerData->map(function ($data) {
-            $data->country = json_decode($data->country, true);
-            return $data;
-        });
-
         $data = [];
-        if ($name) {
-            foreach ($brokerData as $broker) {
-                $data[] = [
-                    'broker_name' => $broker->name,
-                    'broker_img' => $broker->url,
-                    'broker_ratting' => $broker->ratting,
-                    'broker_lose' => $broker->lose,
-                    'broker_path' => $broker->path,
-                    'broker_image' => $broker->broker_img,
-                    'broker_recommended' => $broker->recommended,
-                    'broker_body' => $broker->body,
-                ];
-            }
-            return response()->json(['status' => true, 'message' => 'Broker retrieved successfully', 'data' => $data], 200);
-        }
-        return response()->json(['status' => true, 'message' => 'Broker retrieved successfully', 'data' => $brokerData], 200);
+
+        $scamDatas = ScamBroker::with('points', 'image', 'broker')->get();
+
+        return response()->json(['status' => true, 'message' => 'Scam Broker retrieved successfully', 'data' => $scamDatas], 200);
 
 
     }
 
 
     
-
-    public function import(Request $request)
-    {
-
-
-        Excel::import(
-            new ImportScamBroker,
-            $request->file('file')->store('files')
-        );
-        return redirect()->back();
-    }
-
-    public function exportUsers(Request $request)
-    {
-        return Excel::download(new ExportScamBroker, 'users.xlsx');
-    }
 
 
     public function fetchImages()

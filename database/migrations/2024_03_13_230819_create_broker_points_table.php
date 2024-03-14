@@ -11,9 +11,8 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('scam_brokers', function (Blueprint $table) {
+        Schema::create('broker_points', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
             $table->timestamps();
         });
     }
@@ -23,6 +22,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('scam_brokers');
+        Schema::dropIfExists('broker_points');
     }
 };

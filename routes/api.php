@@ -31,5 +31,5 @@ Route::get('fetch-image', [ApiDataController::class,'fetchImages']);
 Route::get('/country-code', [ApiDataController::class,'getCountryCodeFromApi']);
 
 Route::get('/file-import',[ApiDataController::class,'importView'])->name('import-view'); 
-    Route::post('/import',[ApiDataController::class,'import'])->name('import'); 
-    Route::get('/export-users',[ApiDataController::class,'exportUsers'])->name('export-users');
+Route::post('/import',[ApiDataController::class,'import'])->name('import'); 
+Route::get('/export-users',[ApiDataController::class,'exportUsers'])->name('export-users');

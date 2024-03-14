@@ -4,6 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\HasOne;
 
 class ScamBroker extends Model
 {
@@ -11,6 +12,19 @@ class ScamBroker extends Model
 
     protected $fillable = [
         'name',
-        'body',
     ];
+
+    public function points()
+    {
+        return $this->hasMany(Point::class,'scam_broker_id');
+    }
+
+    public function image()
+    {
+        return $this->hasOne(Image::class,'filename', 'name');
+    }
+    public function broker()
+    {
+        return $this->hasOne(Broker::class,'name', 'name');
+    }
 }
