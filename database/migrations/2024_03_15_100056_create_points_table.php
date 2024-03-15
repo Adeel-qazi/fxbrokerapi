@@ -11,10 +11,12 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('scam_brokers', function (Blueprint $table) {
+        Schema::create('points', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
+            $table->unsignedBigInteger('scambroker_id');
+            $table->string('description'); 
             $table->timestamps();
+            $table->foreign('scambroker_id')->references('id')->on('scambrokers')->onDelete('cascade');
         });
     }
 
@@ -23,6 +25,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('scam_brokers');
+        Schema::dropIfExists('points');
     }
 };

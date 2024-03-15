@@ -29,5 +29,18 @@ class Broker extends Model
     ];
 
 
+    public function image()
+    {
+        return $this->hasOne(Image::class, 'filename','name');
+    }
+
+    // public function image()
+    // {
+    //     return $this->hasOne(Image::class,'filename', 'name');
+    // }
+
+
+
+
 
 }

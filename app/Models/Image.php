@@ -12,4 +12,5 @@ class Image extends Model
         'filename',
         'path',
     ];
+
 }
