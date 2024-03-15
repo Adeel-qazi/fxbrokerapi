@@ -49,7 +49,7 @@ class FeeData extends Model
     ];
 
 
-    public function image()
+    public function imageFee()
     {
         return $this->hasOne(Image::class, 'filename','broker');
     }

@@ -188,18 +188,16 @@ class ApiDataController extends Controller
         //     $images[$image->filename] = $image->path;
         // }
 
+        $brokerName = request()->name;
 
+        $brokerRecords = Broker::query();
+        if ($brokerName)
+            $brokerRecords->where('name', $brokerName);
 
-        $name = request()->name;
-
-        $brokerData = Broker::query();
-        if ($name)
-            $brokerData->where('name', $name);
-
-        $brokerData = $brokerData->with('image')->get();
+        $brokerRecords = $brokerRecords->with('image')->get();
       
 
-        // foreach ($brokerData as &$broker) {
+        // foreach ($brokerRecords as &$broker) {
         //     $brokerName = $broker['name'];
 
         //     if (array_key_exists($brokerName, $images)) {
@@ -210,14 +208,18 @@ class ApiDataController extends Controller
         // }
 
 
-        $brokerData = $brokerData->map(function ($data) {
-            $data->country = json_decode($data->country, true);
-            return $data;
+        $brokerRecords = $brokerRecords->map(function ($record) {
+            if($record->image){
+              $record['img'] = $record->image->path?? 'null';
+              unset($record->image);
+            }
+            $record->country = json_decode($record->country, true);
+            return $record;
         });
 
         // $data = [];
         // if ($name) {
-        //     foreach ($brokerData as $broker) {
+        //     foreach ($brokerRecords as $broker) {
         //         $data[] = [
         //             'broker_name' => $broker->name,
         //             'broker_country' => $broker->country,
@@ -225,7 +227,7 @@ class ApiDataController extends Controller
         //     }
         //     return response()->json(['status' => true, 'message' => 'Broker retrieved successfully', 'data' => $data], 200);
         // }
-        return response()->json(['status' => true, 'message' => 'Broker retrieved successfully', 'data' => $brokerData], 200);
+        return response()->json(['status' => true, 'message' => 'Broker retrieved successfully', 'data' => $brokerRecords], 200);
 
 
     }
@@ -233,49 +235,24 @@ class ApiDataController extends Controller
 
     public function fetchHighest()
     {
-        $name = request()->name;
+        $highestName = request()->name;
 
-        // $imageData = Image::all();
+        $highestRecords = HighestData::query();
+        if ($highestName)
+            $highestRecords->where('name', $highestName);
+        $highestRecords = $highestRecords->with('image')->get();
 
-        // $images = [];
-        // foreach ($imageData as $image) {
-        //     $images[$image->filename] = $image->path;
-        // }
-
-
-        $highestData = HighestData::query();
-        if ($name)
-            $highestData->where('name', $name);
-        $highestData = $highestData->with('image')->get();
-
-
-        // foreach ($highestData as &$highest) {
-        //     $highestName = $highest['name'];
-
-        //     if (array_key_exists($highestName, $images)) {
-        //         $highest['broker_img'] = $images[$highestName];
-        //     } else {
-        //         $highest['broker_img'] = 'default_path'; // Change 'default_path' to your desired default value
-        //     }
-        // }
-
-
-        $highestData = $highestData->map(function ($data) {
-            $data->country = json_decode($data->country, true);
-            return $data;
+        $highestRecords = $highestRecords->map(function ($record) {
+            if($record->image){
+                $record['img'] = $record->image->path?? 'null';
+                unset($record->image);
+              }
+              $record->country = json_decode($record->country, true);
+              return $record;
+         
         });
 
-        // $data = [];
-        // if ($name) {
-        //     foreach ($highestData as $highest) {
-        //         $data[] = [
-        //             'highest_name' => $highest->name,
-        //             'highest_country' => $highest->country,
-        //         ];
-        //     }
-        //     return response()->json(['status' => true, 'message' => 'Highest retrieved successfully', 'data' => $data], 200);
-        // }
-        return response()->json(['status' => true, 'message' => 'Highest retrieved successfully', 'data' => $highestData], 200);
+        return response()->json(['status' => true, 'message' => 'Highest retrieved successfully', 'data' => $highestRecords], 200);
 
     }
 
@@ -284,64 +261,31 @@ class ApiDataController extends Controller
 
     public function fetchCompareBroker()
     {
-        
-        // $imageData = Image::all();
-        
-        // $images = [];
-        // foreach ($imageData as $image) {
-            //     $images[$image->filename] = $image->path;
-            // }
-            
-            $brokername = request()->brokername;
+        $brokername = request()->brokername;
 
-        $compareBrokerData = Comparebroker::query();
+        $compareBrokerRecords = Comparebroker::query();
         if ($brokername)
-            $compareBrokerData->where('brokername', $brokername);
+            $compareBrokerRecords->where('brokername', $brokername);
           
-            $compareBrokerData = $compareBrokerData->with('image')->get();
+            $compareBrokerRecords = $compareBrokerRecords->with('image')->get();
 
-            // return $compareBrokerData;
+        $compareBrokerRecords = $compareBrokerRecords->map(function ($record) {
 
-        // $compareBrokerData = $compareBrokerData->get();
-
-
-        // foreach ($compareBrokerData as &$compareBroker) {
-        //     $compareBrokerName = $compareBroker['brokername'];
-
-        //     if (array_key_exists($compareBrokerName, $images)) {
-        //         $compareBroker['img'] = $images[$compareBrokerName];
-        //     } else {
-        //         $compareBroker['img'] = 'default_path'; // Change 'default_path' to your desired default value
-        //     }
-        // }
-
-
-
-        $compareBrokerData = $compareBrokerData->map(function ($data) {
-            $data->country = json_decode($data->country, true);
-            $data->tradingfees = json_decode($data->tradingfees, true);
-            $data->nontradingfees = json_decode($data->nontradingfees, true);
-            $data->safety = json_decode($data->safety, true);
-            $data->depositandwithdrawal = json_decode($data->depositandwithdrawal, true);
-            $data->platformandexperience = json_decode($data->platformandexperience, true);
-            return $data;
+            if($record->image){
+                $record['img'] = $record->image->path?? 'null';
+                unset($record->image);
+              }
+            
+            $record->country = json_decode($record->country, true);
+            $record->tradingfees = json_decode($record->tradingfees, true);
+            $record->nontradingfees = json_decode($record->nontradingfees, true);
+            $record->safety = json_decode($record->safety, true);
+            $record->depositandwithdrawal = json_decode($record->depositandwithdrawal, true);
+            $record->platformandexperience = json_decode($record->platformandexperience, true);
+            return $record;
         });
 
-
-
-        // $data = [];
-        // if ($brokername) {
-        //     foreach ($compareBrokerData as $comBrokerData) {
-        //         $data[] = [
-        //             'name' => $comBrokerData->brokername,
-        //             'country' => $comBrokerData->country,
-        //             'lose' => $comBrokerData->lose,
-        //             'img' => $comBrokerData->img,
-        //         ];
-        //     }
-        //     return response()->json(['status' => true, 'message' => 'CompareBroker retrieved successfully', 'data' => $data], 200);
-        // }
-        return response()->json(['status' => true, 'message' => 'CompareBroker retrieved successfully', 'data' => $compareBrokerData], 200);
+        return response()->json(['status' => true, 'message' => 'CompareBroker retrieved successfully', 'data' => $compareBrokerRecords], 200);
 
     }
 
@@ -350,65 +294,39 @@ class ApiDataController extends Controller
 
     public function fetchFee()
     {
-        $broker = request()->broker;
+        $brokerName = request()->broker;
 
-        // $imageData = Image::all();
-
-        // $images = [];
-        // foreach ($imageData as $image) {
-        //     $images[$image->filename] = $image->path;
-        // }
-
-        $feeData = FeeData::query();
-        if ($broker)
-            $feeData->where('broker', $broker);
-        $feeData = $feeData->with('image')->get();
-
-        // foreach ($feeData as &$fee) {
-        //     $feeName = $fee['broker'];
-
-        //     if (array_key_exists($feeName, $images)) {
-
-        //         $fee['image'] = $images[$feeName];
-        //     } else {
-        //         $fee['image'] = 'default_path'; // Change 'default_path' to your desired default value
-        //     }
-        // }
+        $feeRecords = FeeData::query();
+        if ($brokerName)
+            $feeRecords->where('broker', $brokerName);
+        $feeRecords = $feeRecords->with('imageFee')->get();
 
 
 
 
-        $feeData = $feeData->map(function ($data) {
-            $data->country = json_decode($data->country, true);
-            $data->eurusd = json_decode($data->eurusd, true);
-            $data->usdjpy = json_decode($data->usdjpy, true);
-            $data->gbpusd = json_decode($data->gbpusd, true);
-            $data->usdcad = json_decode($data->usdcad, true);
-            $data->audusd = json_decode($data->audusd, true);
-            $data->nzdusd = json_decode($data->nzdusd, true);
-            $data->eurjpy = json_decode($data->eurjpy, true);
-            $data->gbpjpy = json_decode($data->gbpjpy, true);
-            $data->usdchf = json_decode($data->usdchf, true);
-            $data->eurgbp = json_decode($data->eurgbp, true);
-            $data->nzdjpy = json_decode($data->nzdjpy, true);
-            $data->audjpy = json_decode($data->audjpy, true);
-            $data->gold = json_decode($data->gold, true);
-            return $data;
+        $feeRecords = $feeRecords->map(function ($record) {
+            if($record->imageFee){
+                $record['img'] = $record->imageFee->path?? 'null';
+                unset($record->imageFee);
+              }
+            $record->country = json_decode($record->country, true);
+            $record->eurusd = json_decode($record->eurusd, true);
+            $record->usdjpy = json_decode($record->usdjpy, true);
+            $record->gbpusd = json_decode($record->gbpusd, true);
+            $record->usdcad = json_decode($record->usdcad, true);
+            $record->audusd = json_decode($record->audusd, true);
+            $record->nzdusd = json_decode($record->nzdusd, true);
+            $record->eurjpy = json_decode($record->eurjpy, true);
+            $record->gbpjpy = json_decode($record->gbpjpy, true);
+            $record->usdchf = json_decode($record->usdchf, true);
+            $record->eurgbp = json_decode($record->eurgbp, true);
+            $record->nzdjpy = json_decode($record->nzdjpy, true);
+            $record->audjpy = json_decode($record->audjpy, true);
+            $record->gold = json_decode($record->gold, true);
+            return $record;
         });
 
-
-
-        // $data = [];
-        // if ($broker) {
-        //     foreach ($feeData as $fee) {
-        //         $data[] = [
-        //             'fee_broker' => $fee->broker,
-        //             'country' => $fee->country,
-        //         ];
-        //     }
-        //     return response()->json(['status' => true, 'message' => 'Fee retrieved successfully', 'data' => $data], 200);
-        // }
-        return response()->json(['status' => true, 'message' => 'Fee retrieved successfully', 'data' => $feeData], 200);
+        return response()->json(['status' => true, 'message' => 'Fee retrieved successfully', 'data' => $feeRecords], 200);
 
     }
 
@@ -416,32 +334,36 @@ class ApiDataController extends Controller
 
     public function fetchScamBroker()
     {
-
+        
         $scambroker = request()->name;
 
-        $scamData = ScamBroker::query();
+        $scamItems = ScamBroker::query();
         if ($scambroker)
-            $scamData->where('name', $scambroker);
-        $scamData = $scamData->with('points', 'image', 'broker')->get();
-
+            $scamItems->where('name', $scambroker);
+        $scamItems = $scamItems->with('points', 'image', 'broker')->get();
 
        
-            $scamData = $scamData->map(function ($data) {
-                if ($data->broker) {
-                    $country = $data->broker->country;
-                    $data->broker->country = json_decode($country, true);
+            $scamItems = $scamItems->map(function ($item) {
+                if($item->image){
+                    $item['img'] = $item->image->path ?? 'null';  
+                    unset($item->image);
                 }
-                return $data;
+                if ($item->broker) {
+                    $item['url'] = $item->broker->url;
+                    $item['ratting'] = $item->broker->ratting;
+                    $item['lose'] = $item->broker->lose;
+                    $item['path'] = $item->broker->path;
+                    $item['recommended'] = $item->broker->recommended;
+                    unset($item->broker);
+                }
+                return $item;
             });
 
 
-        return response()->json(['status' => true, 'message' => 'Scam Broker retrieved successfully', 'data' => $scamData], 200);
+        return response()->json(['status' => true, 'message' => 'Scam Broker retrieved successfully', 'data' => $scamItems], 200);
 
 
     }
-
-
-    
 
 
     public function fetchImages()
@@ -482,8 +404,6 @@ class ApiDataController extends Controller
             return response()->json(['status' => false, 'message' => $e->getMessage()], 500);
         }
     }
-
-
 
 
 }
