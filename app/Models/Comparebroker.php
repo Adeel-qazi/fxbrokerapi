@@ -8,8 +8,10 @@ use Illuminate\Database\Eloquent\Model;
 class Comparebroker extends Model
 {
     use HasFactory;
+
+  
     protected $fillable = [
-        'name',
+        'brokername',
         'country',
         'lose',
         'url',
@@ -33,5 +35,11 @@ class Comparebroker extends Model
         "depositandwithdrawal" => "array",
         "platformandexperience" => "array",
     ];
+
+    public function image()
+    {
+        return $this->hasOne(Image::class, 'filename','brokername');
+    }
+    
     
 }

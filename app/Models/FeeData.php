@@ -47,5 +47,11 @@ class FeeData extends Model
         'audjpy' => 'array',
         'gold' => 'array',
     ];
+
+
+    public function image()
+    {
+        return $this->hasOne(Image::class, 'filename','broker');
+    }
     
 }

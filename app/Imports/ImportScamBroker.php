@@ -27,7 +27,7 @@ class ImportScamBroker implements ToModel, WithHeadingRow
         foreach ($pointDescriptions as $pointDescription) {
             $pointDescription = trim($pointDescription);
             
-            $point = Point::firstOrCreate(['description' => $pointDescription,'scam_broker_id' => $broker->id]);
+            $point = Point::firstOrCreate(['description' => $pointDescription,'scambroker_id' => $broker->id]);
 
             $broker->points()->save($point);
         }

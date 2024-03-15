@@ -4,9 +4,8 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\Relations\HasOne;
 
-class ScamBroker extends Model
+class Scambroker extends Model
 {
     use HasFactory;
 
@@ -14,9 +13,14 @@ class ScamBroker extends Model
         'name',
     ];
 
+
+    protected $casts = [
+        "country" => "array"
+    ];
+
     public function points()
     {
-        return $this->hasMany(Point::class,'scam_broker_id');
+        return $this->hasMany(Point::class,'scambroker_id');
     }
 
     public function image()

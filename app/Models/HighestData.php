@@ -26,4 +26,9 @@ class HighestData extends Model
     protected $casts = [
         "country" => "array"
     ];
+
+    public function image()
+    {
+        return $this->hasOne(Image::class,'filename','name');
+    }
 }
