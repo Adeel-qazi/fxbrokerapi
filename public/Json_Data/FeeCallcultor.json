@@ -2125,7 +2125,7 @@
       "broker": "HYCM",
       "link": "https://www.hycm.com",
       "lose": "74-89",
-
+      "path": "/hycm-review",
       "Country": ["AllCountry", "Israel", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "Germany", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
       "type": "Raw Account",
       "img": "Hycmlogo",
@@ -2379,6 +2379,7 @@
     {
       "broker": "Markets.com",
       "link": "https://www.markets.com",
+      "path": "/markets-review",
       "lose": "67.7",
       "img": "marketcom",
       "Country": ["AllCountry", "Saudi Arabia", "Egypt", "Albania", "Andorra", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Iceland", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],

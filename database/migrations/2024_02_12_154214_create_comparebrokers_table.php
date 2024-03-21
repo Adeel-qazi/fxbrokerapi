@@ -17,6 +17,7 @@ return new class extends Migration
             $table->json('country');
             $table->string('url');
             $table->string('lose');
+            $table->string('path')->nullable();
             $table->decimal('score', 3, 1);
             $table->string('available');
             $table->string('popularity')->nullable();

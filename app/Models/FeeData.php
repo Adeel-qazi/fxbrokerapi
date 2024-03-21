@@ -15,6 +15,7 @@ class FeeData extends Model
         'type',
         'image',
         'lose',
+        'path',
         'country',
         'eursud',
         'usdjpy',

@@ -15,6 +15,7 @@ return new class extends Migration
             $table->id();
             $table->string('broker');
             $table->string('lose');
+            $table->string('path')->nullable();
             $table->string('link');
             $table->string('image');
             $table->string('type')->nullable();

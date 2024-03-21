@@ -120,6 +120,7 @@ class ApiDataController extends Controller
             $compareBroker->brokername = $decodedData['BrokerName'];
             $compareBroker->country = json_encode($decodedData['Country'] ?? null);
             $compareBroker->lose = $decodedData['lose'];
+            $compareBroker->path = $decodedData['path'] ?? null;
             $compareBroker->url = $decodedData['url'];
             $compareBroker->score = $decodedData['score'];
             $compareBroker->available = $decodedData['Avaiable'];
@@ -145,6 +146,7 @@ class ApiDataController extends Controller
             $fee->type = $decodedData['type'] ?? null;
             $fee->image = $decodedData['img'];
             $fee->lose = $decodedData['lose'];
+            $fee->path = $decodedData['path'] ?? null;
             $fee->link = $decodedData['link'];
             $fee->country = json_encode($decodedData['Country'] ?? null);
             $fee->eurusd = json_encode($decodedData['EURUSD'] ?? null);

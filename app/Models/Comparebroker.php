@@ -14,6 +14,7 @@ class Comparebroker extends Model
         'brokername',
         'country',
         'lose',
+        'path',
         'url',
         'score',
         'available',

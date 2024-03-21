@@ -374,6 +374,7 @@
     "Country": ["AllCountry", "Israel", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "Germany", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "New Zealand", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
     "lose": "74-89",
     "url": "https://hycm.com",
+    "path": " /hycm-review",
     "ratting": 4.5,
     "mindeposit": "$100",
     "maxLeverge": "500:1",
@@ -420,6 +421,7 @@
     {
       "Name": "Markets.com",
       "url": "https://www.markets.com",
+      "path": "/markets-review",
       "Country": ["AllCountry", "Saudi Arabia", "Egypt", "Albania", "Andorra", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Australia", "Austria", "Bahrain", "Bangladesh", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Iceland", "Ireland", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Norway", "Oman", "Poland", "Portugal", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
       "lose": "67.7",
       "ratting": 4.4,
