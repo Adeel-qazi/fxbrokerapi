@@ -253,8 +253,8 @@ class ApiDataController extends Controller
               return $record;
          
         });
-
-        return response()->json(['status' => true, 'message' => 'Highest retrieved successfully', 'data' => $highestRecords], 200);
+    
+        return response()->json(['status' => true, 'message' => 'Highest Broker retrieved successfully', 'data' => $highestRecords], 200);
 
     }
 
