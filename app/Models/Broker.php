@@ -28,6 +28,10 @@ class Broker extends Model
         "country" => "array"
     ];
 
+    public function levels()
+    {
+        return $this->hasMany(Level::class,'broker_id');
+    }
 
     public function image()
     {
