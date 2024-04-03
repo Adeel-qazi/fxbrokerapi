@@ -22,8 +22,10 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 
 
 Route::post('store', [ApiDataController::class, 'store']);
+Route::post('import-file', [ApiDataController::class, 'importExcel']);
 Route::get('/broker', [ApiDataController::class,'fetchBroker']);
 Route::get('/scam-broker', [ApiDataController::class,'fetchScamBroker']);
+Route::get('/broker-point', [ApiDataController::class,'brokerPoint']);
 Route::get('/compare-broker', [ApiDataController::class,'fetchCompareBroker']);
 Route::get('/fee', [ApiDataController::class,'fetchFee']);
 Route::get('/highest', [ApiDataController::class,'fetchHighest']);

@@ -44,7 +44,8 @@
       "tradingfees": [
         {
           "OverallScore": "4.9",
-          "FeeScore": "4.6",
+          "FeeScore": "4.0",
+          "EducationalToolScore": "4.5",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -95,6 +96,76 @@
         }
       ]
     },
+    { 
+      "BrokerName": "XTB",
+      "url": "https://www.xtb.com",
+      "Country": ["AllCountry",
+        "Afghanistan", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda",
+        "Argentina", "Armenia", "Aruba", "Austria", "Bahrain", "Brazil", "China",
+        "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Ireland", "Israel", "Italy",
+        "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore",
+        "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
+      ],
+      "score": "4.6",
+      "lose": "76",
+      "Avaiable": "in sa",
+      "Updated": "OCT 2023",
+      "img": "XTB",
+      "tradingfees": [
+        {
+          "OverallScore": "4.9",
+          "FeeScore": "4.2",
+          "EducationalToolScore": "4.2",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "Depends on method",
+          "DepositFee": "1 – 2 Days",
+          "InactiveFee": 10,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "no",
+          "TradingView": "no",
+          "cTrader": "no",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "no",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "FCA, KNF, CySEC, DFSA, FSC",
+          "Funding_Methods": "Visa/Master Card, Bank Transfer, Skrill",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":"$0",
+          "MaximumLeverage":"30:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "5.0",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
     {
       "BrokerName": "ActivTrades",
       "Country": ["AllCountry", "Egypt", "American Samoa", "Kuwait", "Behrain", "Oman", "Qatar", "Israel", "Algeria", "Israel", "Albania", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Bangladesh", "Armenia", "Aruba", "Australia", "Austria", "Belgium", "China", "Cyprus", "Denmark", "Finland", "France", "Germany", "Greece", "Hong Kong", "Hungary", "Iceland", "Ireland", "Italy", "Luxembourg", "Malta", "Monaco", "Netherlands", "New Zealand", "Norway", "Poland", "Portugal", "Oman", "San Marino", "Saudi Arabia", "Singapore", "Slovakia", "Slovenia", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
@@ -106,8 +177,9 @@
       "img": "activetrade",
       "tradingfees": [
         {
-          "OverallScore": "4.9",
-          "FeeScore": "4.6",
+          "OverallScore": "4.8",
+          "FeeScore": "3.8",
+          "EducationalToolScore": "3.7",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -160,75 +232,6 @@
         }
       ]
     },
-    { 
-      "BrokerName": "XTB",
-      "url": "https://www.xtb.com",
-      "Country": ["AllCountry",
-        "Afghanistan", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda",
-        "Argentina", "Armenia", "Aruba", "Austria", "Bahrain", "Brazil", "China",
-        "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Ireland", "Israel", "Italy",
-        "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore",
-        "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"
-      ],
-      "score": "4.6",
-      "lose": "76",
-      "Avaiable": "in sa",
-      "Updated": "OCT 2023",
-      "img": "XTB",
-      "tradingfees": [
-        {
-          "OverallScore": "4.9",
-          "FeeScore": "4.6",
-          "USstock": "$15",
-          "EURUSDspread": "$0.6",
-          "USstockindexoptions": "$10",
-          "SP500indexCFDfee": "$10"
-        }
-      ],
-      "Nontradingfees": [
-        {
-          "WithdrawlFee": "Depends on method",
-          "DepositFee": "1 – 2 Days",
-          "InactiveFee": 10,
-          "IslamicAccount": "no",
-          "MT4": "yes",
-          "MT5": "no",
-          "TradingView": "no",
-          "cTrader": "no",
-          "capitaliseaiAvailable": "no",
-          "zuluTradeAvaiable": "no",
-          "copyTradingAvailable": "no",
-          "AutochartistAccess": "no",
-          "TradingCenteralAccess": "no"
-        }
-      ],
-      "Safety": [
-        {
-          "Toptierregulators": "FCA, KNF, CySEC, DFSA, FSC",
-          "Funding_Methods": "Visa/Master Card, Bank Transfer, Skrill",
-          "Investorprotection": "yes"
-        }
-      ],
-      "DepositandWithdrawal": [
-        {
-          "Minimumdeposit":"$0",
-          "MaximumLeverage":"30:1",
-          "PayPalfordeposit": "yes",
-          "Wisefordeposit": "yes",
-          "Revolutfordeposit": "yes",
-          "Otherelectronicwallets": "yes"
-        }
-      ],
-      "PlatformandExperience": [
-        {
-          "mobileplatformscore": "3.8",
-          "WebPlatformscore": "2.8",
-          "metatraderscore": "yes",
-          "custumservicescore": "5.0",
-          "Accountoppeningscore": "5.0"
-        }
-      ]
-    },
     {
       "BrokerName": "IG",
       "url": "https://www.ig.com",
@@ -246,8 +249,9 @@
       "img": "IG",
       "tradingfees": [
         {
-          "OverallScore": "4.9",
-          "FeeScore": "4.6",
+          "OverallScore": "4.8",
+          "FeeScore": "4.8",
+          "EducationalToolScore": "4.9",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -315,8 +319,9 @@
       "img": "peperstone",
       "tradingfees": [
         {
-          "OverallScore": "4.9",
-          "FeeScore": "4.6",
+          "OverallScore": "4.7",
+          "FeeScore": "4.8",
+          "EducationalToolScore": "4.4",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -378,8 +383,9 @@
       "img": "forexcom",
       "tradingfees": [
         {
-          "OverallScore": "4.9",
-          "FeeScore": "4.6",
+          "OverallScore": "4.6",
+          "FeeScore": "3.8",
+          "EducationalToolScore": "4.3",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -443,8 +449,9 @@
       "img": "fxpro",
       "tradingfees": [
         {
-          "OverallScore": "4.9",
-          "FeeScore": "4.6",
+          "OverallScore": "4.6",
+          "FeeScore": "3.7",
+          "EducationalToolScore": "3.5",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -506,8 +513,9 @@
       "img": "cityindex",
       "tradingfees": [
         {
-          "OverallScore": "4.9",
-          "FeeScore": "4.6",
+          "OverallScore": "4.6",
+          "FeeScore": "3.7",
+          "EducationalToolScore": "4.4",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -569,8 +577,9 @@
       "img": "CMCmarketlogo",
       "tradingfees": [
         {
-          "OverallScore": "4.9",
-          "FeeScore": "4.6",
+          "OverallScore": "4.5",
+          "FeeScore": "4.2",
+          "EducationalToolScore": "4.5",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -632,8 +641,9 @@
       "img": "tickmil",
       "tradingfees": [
         {
-          "OverallScore": "4.9",
-          "FeeScore": "4.6",
+          "OverallScore": "4.4",
+          "FeeScore": "4.0",
+          "EducationalToolScore": "4.6",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -695,8 +705,9 @@
       "img": "oandalogo",
       "tradingfees": [
         {
-          "OverallScore": "4.9",
-          "FeeScore": "4.9",
+          "OverallScore": "4.3",
+          "FeeScore": "4.3",
+          "EducationalToolScore": "4.3",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -766,8 +777,9 @@
       "img": "admiralmarket",
       "tradingfees": [
         {
-          "OverallScore": "4.9",
-          "FeeScore": "4.8",
+          "OverallScore": "4.3",
+          "FeeScore": "3.6",
+          "EducationalToolScore": "3.5",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -834,8 +846,9 @@
       "img": "etoro",
       "tradingfees": [
         {
-          "OverallScore": "4.9",
-          "FeeScore": "4.2",
+          "OverallScore": "4.3",
+          "FeeScore": "3.9",
+          "EducationalToolScore": "4.2",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -898,8 +911,9 @@
       "img": "captial",
       "tradingfees": [
         {
-          "OverallScore": "4.9",
-          "FeeScore": "4.2",
+          "OverallScore": "4.2",
+          "FeeScore": "3.7",
+          "EducationalToolScore": "4.3",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -953,6 +967,73 @@
       ]
     },
     {
+      "BrokerName": "Fusion Markets",
+      "url": "https://fusionmarkets.com",
+      "Country": ["AllCountry", "Afghanistan", "Albania", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
+      "score": "4.6",
+      "lose": "74-89",
+      "Avaiable": "in pakistan",
+      "Updated": "OCT 2023",
+      "img": "fusionmarket",
+      "tradingfees": [
+        {
+          "OverallScore": "4.2",
+          "FeeScore": "3.5",
+          "EducationalToolScore": "3.2",
+          "USstock": "$15",
+          "EURUSDspread": "$0.6",
+          "USstockindexoptions": "$10",
+          "SP500indexCFDfee": "$10"
+        }
+      ],
+      "Nontradingfees": [
+        {
+          "WithdrawlFee": "Depends on amount",
+          "DepositFee": "1H – 1 Day",
+          "InactiveFee": 10,
+          "IslamicAccount": "no",
+          "MT4": "yes",
+          "MT5": "yes",
+          "TradingView": "no",
+          "cTrader": "yes",
+          "capitaliseaiAvailable": "no",
+          "zuluTradeAvaiable": "no",
+          "copyTradingAvailable": "yes",
+          "AutochartistAccess": "no",
+          "TradingCenteralAccess": "no"
+        }
+      ],
+      "Safety": [
+        {
+          "Toptierregulators": "ASIC, FSA, VFSC",
+          "Funding_Methods":
+            "Visa/Master/ Card, Bank Transfer, Skrill, Neteller, Paypal",
+          "Investorprotection": "yes"
+        }
+      ],
+      "DepositandWithdrawal": [
+        {
+          "Minimumdeposit":
+            "$0",
+          "MaximumLeverage":
+            "500:1",
+          "PayPalfordeposit": "yes",
+          "Wisefordeposit": "yes",
+          "Revolutfordeposit": "yes",
+          "Otherelectronicwallets": "yes"
+        }
+      ],
+      "PlatformandExperience": [
+        {
+          "mobileplatformscore": "3.8",
+          "WebPlatformscore": "2.8",
+          "metatraderscore": "yes",
+          "custumservicescore": "4.5",
+          "Accountoppeningscore": "5.0"
+        }
+      ]
+    },
+    {
       "BrokerName": "Swissquote",
       "url": "https://en.swissquote.com",
       "Country": ["AllCountry",
@@ -970,8 +1051,9 @@
       "img": "swisslogo",
       "tradingfees": [
         {
-          "OverallScore": "4.9",
-          "FeeScore": "4.6",
+          "OverallScore": "4.1",
+          "FeeScore": "3.5",
+          "EducationalToolScore": "3.2",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -1035,8 +1117,9 @@
       "img": "ICmarket",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "4.1",
+          "FeeScore": "3.8",
+          "EducationalToolScore": "3.4",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -1090,72 +1173,7 @@
         }
       ]
     },
-    {
-      "BrokerName": "Fusion Markets",
-      "url": "https://fusionmarkets.com",
-      "Country": ["AllCountry", "Afghanistan", "Albania", "Algeria", "American Samoa", "Andorra", "Angola", "Anguilla", "Antigua & Barbuda", "Argentina", "Armenia", "Aruba", "Austria", "Bahrain", "Bangladesh", "Belgium", "Brazil", "China", "Cyprus", "Denmark", "Egypt", "Finland", "France", "Germany", "Hong Kong", "Ireland", "Israel", "Italy", "Kuwait", "Luxembourg", "Netherlands", "Oman", "Poland", "Qatar", "Saudi Arabia", "Singapore", "South Africa", "Spain", "Sweden", "Switzerland", "United Arab Emirates", "United Kingdom"],
-      "score": "4.6",
-      "lose": "74-89",
-      "Avaiable": "in pakistan",
-      "Updated": "OCT 2023",
-      "img": "fusionmarket",
-      "tradingfees": [
-        {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
-          "USstock": "$15",
-          "EURUSDspread": "$0.6",
-          "USstockindexoptions": "$10",
-          "SP500indexCFDfee": "$10"
-        }
-      ],
-      "Nontradingfees": [
-        {
-          "WithdrawlFee": "Depends on amount",
-          "DepositFee": "1H – 1 Day",
-          "InactiveFee": 10,
-          "IslamicAccount": "no",
-          "MT4": "yes",
-          "MT5": "yes",
-          "TradingView": "no",
-          "cTrader": "yes",
-          "capitaliseaiAvailable": "no",
-          "zuluTradeAvaiable": "no",
-          "copyTradingAvailable": "yes",
-          "AutochartistAccess": "no",
-          "TradingCenteralAccess": "no"
-        }
-      ],
-      "Safety": [
-        {
-          "Toptierregulators": "ASIC, FSA, VFSC",
-          "Funding_Methods":
-            "Visa/Master/ Card, Bank Transfer, Skrill, Neteller, Paypal",
-          "Investorprotection": "yes"
-        }
-      ],
-      "DepositandWithdrawal": [
-        {
-          "Minimumdeposit":
-            "$0",
-          "MaximumLeverage":
-            "500:1",
-          "PayPalfordeposit": "yes",
-          "Wisefordeposit": "yes",
-          "Revolutfordeposit": "yes",
-          "Otherelectronicwallets": "yes"
-        }
-      ],
-      "PlatformandExperience": [
-        {
-          "mobileplatformscore": "3.8",
-          "WebPlatformscore": "2.8",
-          "metatraderscore": "yes",
-          "custumservicescore": "4.5",
-          "Accountoppeningscore": "5.0"
-        }
-      ]
-    },
+   
     {
       "BrokerName": "XM",
       "url": "https://www.xm.com",
@@ -1167,8 +1185,9 @@
       "img": "xtm",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "4.1",
+          "FeeScore": "3.4",
+          "EducationalToolScore": "3.1",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -1232,8 +1251,9 @@
       "img": "fxcmlogo",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "4.1",
+          "FeeScore": "3.5",
+          "EducationalToolScore": "3.7",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -1297,8 +1317,9 @@
       "img": "securites",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "4.0",
+          "FeeScore": "3.1",
+          "EducationalToolScore": "3.3",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -1363,8 +1384,9 @@
       "img": "globalprime",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "4.0",
+          "FeeScore": "3.7",
+          "EducationalToolScore": "3.0",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -1429,8 +1451,9 @@
       "img": "avatrade",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "4.0",
+          "FeeScore": "3.9",
+          "EducationalToolScore": "3.9",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -1495,7 +1518,8 @@
       "tradingfees": [
         {
           "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "FeeScore": "3.7",
+          "EducationalToolScore": "4.0",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -1562,7 +1586,8 @@
       "tradingfees": [
         {
           "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "FeeScore": "4.0",
+          "EducationalToolScore": "3.8",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -1628,8 +1653,9 @@
       "img": "Eightcap",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "3.8",
+          "FeeScore": "4.0",
+          "EducationalToolScore": "4.2",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -1700,8 +1726,9 @@
       "img": "vintage",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "3.7",
+          "FeeScore": "3.8",
+          "EducationalToolScore": "3.7",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -1766,8 +1793,9 @@
       "img": "Hycmlogo",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "3.7",
+          "FeeScore": "3.2",
+          "EducationalToolScore": "3.4",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -1833,8 +1861,9 @@
       "img": "HFmarket",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "3.7",
+          "FeeScore": "3.2",
+          "EducationalToolScore": "3.8",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -1898,8 +1927,9 @@
       "img": "monetamarket",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "3.6",
+          "FeeScore": "3.6",
+          "EducationalToolScore": "3.6",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -1963,8 +1993,9 @@
       "img": "gomarket",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "3.6",
+          "FeeScore": "3.5",
+          "EducationalToolScore": "3.8",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -2029,8 +2060,9 @@
       "img": "marketcom",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "3.5",
+          "FeeScore": "3.9",
+          "EducationalToolScore": "4.0",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -2094,8 +2126,9 @@
       "img": "fxtm",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "3.5",
+          "FeeScore": "3.2",
+          "EducationalToolScore": "3.4",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -2165,8 +2198,9 @@
       "img": "tradenation",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "3.5",
+          "FeeScore": "3.5",
+          "EducationalToolScore": "3.5",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -2236,8 +2270,9 @@
       "img": "blackbull",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "3.4",
+          "FeeScore": "3.3",
+          "EducationalToolScore": "3.5",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -2308,8 +2343,9 @@
       "img": "tmgm",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "3.4",
+          "FeeScore": "3.8",
+          "EducationalToolScore": "3.7",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
@@ -2418,8 +2454,9 @@
       "img": "axi",
       "tradingfees": [
         {
-          "OverallScore": "3.9",
-          "FeeScore": "4.6",
+          "OverallScore": "3.4",
+          "FeeScore": "3.9",
+          "EducationalToolScore": "3.9",
           "USstock": "$15",
           "EURUSDspread": "$0.6",
           "USstockindexoptions": "$10",
